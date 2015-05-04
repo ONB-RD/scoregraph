@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><present>
+<record>
+<record_header>
+<set_entry>000000001</set_entry>
+</record_header>
+<doc_number>000466199</doc_number>
+<metadata>
+<oai_marc>
+<fixfield id="LDR">-----nM2.01200024------h</fixfield>
+<fixfield id="FMT">MH</fixfield>
+<varfield i1="-" i2="1" id="001">
+<subfield label="a">AL00485410</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="003">
+<subfield label="a">20150203</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="029">
+<subfield label="a">MZ00821605</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="037">
+<subfield label="a">ita</subfield>
+</varfield>
+<fixfield id="050">|aa|||||||||||</fixfield>
+<fixfield id="051">|m||||||</fixfield>
+<fixfield id="053">3|</fixfield>
+<varfield i1="-" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="070">
+<subfield label="a">ONB-MUS-Retro</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="100">
+<subfield label="p">Cesti, Antonio</subfield>
+<subfield label="d">1623-1669</subfield>
+<subfield label="9">(DE-588)119253933</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="104">
+<subfield label="p">Leopold</subfield>
+<subfield label="n">I.</subfield>
+<subfield label="c">Heiliges Römisches Reich, Kaiser</subfield>
+<subfield label="d">1640-1705</subfield>
+<subfield label="9">(DE-588)118571869</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="108">
+<subfield label="p">Schmelzer, Johann Heinrich</subfield>
+<subfield label="d">1623-1680</subfield>
+<subfield label="9">(DE-588)10431821X</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="112">
+<subfield label="p">Sbarra, Francesco</subfield>
+<subfield label="d">1611-1668</subfield>
+<subfield label="9">(DE-588)124646522</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="303">
+<subfield label="p">Cesti, Antonio</subfield>
+<subfield label="d">1623-1669</subfield>
+<subfield label="t">&lt;&lt;Il&gt;&gt; pomo d'oro</subfield>
+<subfield label="9">(DE-588)4378329-6</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="304">
+<subfield label="a">&lt;&lt;Il&gt;&gt; pomo d'oro</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="331">
+<subfield label="a">Il pomo d'oro</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="335">
+<subfield label="a">Festa teatrale in 5 atti con prologo</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="359">
+<subfield label="a">Poesia di Francesco Sbarra</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="425">
+<subfield label="a">1668</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="433">
+<subfield label="a">Partitur, Handschrift (17. Jh.), Abschrift (von Riotti); 53, 97, 76, 70 Bl.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="451">
+<subfield label="a">Leopoldina – Privatbibliothek Kaiser Leopolds I.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="501">
+<subfield label="a">Fatta per la nascita della maesta del'imperatrice Margherita</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="517">
+<subfield label="p">Enthält auch:</subfield>
+<subfield label="a">Einlagearien von Leopold I. (II. Akt. 9 Szene Arie "Ecco Paride il giusto")</subfield>
+<subfield label="a">Ballettmusik von Johann Heinrich Schmelzer. [Die Ballette fehlen]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="544">
+<subfield label="a">Mus.Hs.16885</subfield>
+<subfield label="c">Mus</subfield>
+<subfield label="e">Leopoldina</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&amp;kz=1&amp;start=0021605</subfield>
+<subfield label="z">Zettel</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://data.onb.ac.at/mus/MZ00821605</subfield>
+<subfield label="z">Alte Titelaufnahme</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="664">
+<subfield label="a">Aus der Schlafkammerbibliothek Kaiser Leopolds I.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="s">Musiktheater</subfield>
+<subfield label="9">(DE-588)4040874-7</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="f">Musikhandschrift</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="LOW">
+<subfield label="a">ZNAK</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20130610</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1751</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20130712</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1012</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBADP</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20130830</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1128</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20130913</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">2124</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140929</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0750</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBTLB</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20150203</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1151</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20150203</subfield>
+<subfield label="l">ONB06</subfield>
+<subfield label="h">1151</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="RAO">
+<subfield label="u">http://opac.obvsg.at/acc05-own/acc05-znak.html</subfield>
+<subfield label="z">Österr. Nationalbibliothek</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="SGA">
+<subfield label="a">Mus.Hs.16885 Leopoldina</subfield>
+<subfield label="c">ZMUS</subfield>
+<subfield label="f">MANUS</subfield>
+<subfield label="g">R</subfield>
+<subfield label="h">02</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.16885/1 Leopoldina</subfield>
+<subfield label="5">+Z127413607</subfield>
+<subfield label="8">20130725</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.16885/1-4 Leopoldina</subfield>
+<subfield label="5">+Z12741370X</subfield>
+<subfield label="8">20130621</subfield>
+<subfield label="f">02</subfield>
+<subfield label="F">benützbar</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.16885/2 Leopoldina</subfield>
+<subfield label="5">+Z127413504</subfield>
+<subfield label="8">20130725</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.16885/3 Leopoldina</subfield>
+<subfield label="5">+Z127413401</subfield>
+<subfield label="8">20130725</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.16885/4 Leopoldina</subfield>
+<subfield label="5">+Z127413309</subfield>
+<subfield label="8">20130725</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898063&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898446&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898854&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4899402&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>NJXCY4JQBDGFERQDFMBHLEBKDQRPG8J7SS415V596DDCTRUHDB</session-id>
+</present>

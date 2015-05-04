@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><present>
+<record>
+<record_header>
+<set_entry>000000001</set_entry>
+</record_header>
+<doc_number>000507156</doc_number>
+<metadata>
+<oai_marc>
+<fixfield id="LDR">-----nM2.01200024------h</fixfield>
+<fixfield id="FMT">MH</fixfield>
+<varfield i1="-" i2="1" id="001">
+<subfield label="a">AL00526355</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="003">
+<subfield label="a">20140929</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="029">
+<subfield label="a">MZ00919439</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="037">
+<subfield label="a">ita</subfield>
+</varfield>
+<fixfield id="050">|aa|||||||||||</fixfield>
+<fixfield id="051">|m||||||</fixfield>
+<fixfield id="053">3|</fixfield>
+<varfield i1="-" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="070">
+<subfield label="a">ONB-MUS-Retro</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="100">
+<subfield label="p">Wilderer, Johann Hugo &lt;&lt;von&gt;&gt;</subfield>
+<subfield label="d">1670-1724</subfield>
+<subfield label="9">(DE-588)118632825</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="104">
+<subfield label="a">Krafft, Georg</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="331">
+<subfield label="a">La monarchia risoluta</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="335">
+<subfield label="a">Dramma</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="359">
+<subfield label="a">(Ouverture von Georg Krafft)</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="433">
+<subfield label="a">Partitur, Handschrift (18. Jh.), 129 Bl.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="451">
+<subfield label="a">Leopoldina – Privatbibliothek Kaiser Leopolds I.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="501">
+<subfield label="a">Auch "Balli" (Tänze) von den Komponisten</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="544">
+<subfield label="a">Mus.Hs.17929</subfield>
+<subfield label="c">Mus</subfield>
+<subfield label="e">Leopoldina</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&amp;kz=1&amp;start=0119439</subfield>
+<subfield label="z">Zettel</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://data.onb.ac.at/mus/MZ00919439</subfield>
+<subfield label="z">Alte Titelaufnahme</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="661">
+<subfield label="a">Quanti mai farfalle amanti a la luce</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="s">Musiktheater</subfield>
+<subfield label="9">(DE-588)4040874-7</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="f">Musikhandschrift</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="LOW">
+<subfield label="a">ZNAK</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20130611</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1543</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBADP</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140430</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1144</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140929</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1356</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140929</subfield>
+<subfield label="l">ONB06</subfield>
+<subfield label="h">1356</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="RAO">
+<subfield label="u">http://opac.obvsg.at/acc05-own/acc05-znak.html</subfield>
+<subfield label="z">Österr. Nationalbibliothek</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="SGA">
+<subfield label="a">Mus.Hs.17929 Leopoldina</subfield>
+<subfield label="c">ZMUS</subfield>
+<subfield label="f">MANUS</subfield>
+<subfield label="g">R</subfield>
+<subfield label="h">02</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.17929 Leopoldina</subfield>
+<subfield label="5">+Z127417807</subfield>
+<subfield label="8">20130624</subfield>
+<subfield label="f">02</subfield>
+<subfield label="F">benützbar</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4918467&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>4HGJR8VJ9IKJA2RNNLE7HV3KPYH8KADCXBF4CBJ3A919UBJTHJ</session-id>
+</present>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><present>
+<record>
+<record_header>
+<set_entry>000000001</set_entry>
+</record_header>
+<doc_number>000112576</doc_number>
+<metadata>
+<oai_marc>
+<fixfield id="LDR">-----nM2.01200024------h</fixfield>
+<fixfield id="FMT">MH</fixfield>
+<varfield i1="-" i2="1" id="001">
+<subfield label="a">AL00119186</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="002">
+<subfield label="a">20090403</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="003">
+<subfield label="a">20150113</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="037">
+<subfield label="a">ger</subfield>
+</varfield>
+<fixfield id="050">|aa|||||||||||</fixfield>
+<fixfield id="051">|m||||||</fixfield>
+<fixfield id="053">3|</fixfield>
+<varfield i1="-" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="070">
+<subfield label="a">ONB-HANNA</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="100">
+<subfield label="p">Schubert, Franz</subfield>
+<subfield label="d">1797-1828</subfield>
+<subfield label="9">(DE-588)118610961</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="104">
+<subfield label="a">Stoll, Ludwig Joseph</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="108">
+<subfield label="p">Körner, Theodor</subfield>
+<subfield label="d">1791-1813</subfield>
+<subfield label="9">(DE-588)118713507</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="112">
+<subfield label="p">Kumpf, Johann Gottfried</subfield>
+<subfield label="d">1781-1862</subfield>
+<subfield label="9">(DE-588)132145901</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="116">
+<subfield label="p">Deinhardstein, Johann Ludwig</subfield>
+<subfield label="d">1794-1859</subfield>
+<subfield label="9">(DE-588)116055448</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="120">
+<subfield label="p">Jarnik, Urban</subfield>
+<subfield label="d">1784-1844</subfield>
+<subfield label="9">(DE-588)118842188</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="124">
+<subfield label="p">Fellinger, Johann Georg</subfield>
+<subfield label="d">1781-1816</subfield>
+<subfield label="9">(DE-588)136659837</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="128">
+<subfield label="a">Kalchberg, Johann Nepomuk &lt;&lt;von&gt;&gt;</subfield>
+<subfield label="b">[Text]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="303">
+<subfield label="p">Schubert, Franz</subfield>
+<subfield label="d">1797-1828</subfield>
+<subfield label="t">Lieder</subfield>
+<subfield label="9">(DE-588)300140924</subfield>
+<subfield label="z">Ausw.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="304">
+<subfield label="a">Lieder / Ausw.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="331">
+<subfield label="a">[Lieder für Singstimme und Klavier]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="425">
+<subfield label="a">15. Oct. 1815</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="425">
+<subfield label="a">15.10.1815</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="433">
+<subfield label="a">Autograph, 4 Bl. (zwei ineinanderliegende, lose Doppelblätter)</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="435">
+<subfield label="a">22-23,5 x 31-31,5 cm</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="501">
+<subfield label="a">An den Rändern aller Blätter verschiedene Eintragungen in Bezug auf die Drucklegung von fremder Hand; mehrere divergierende Blatt- und Seitenzahlen.</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="517">
+<subfield label="p">Enthält:</subfield>
+<subfield label="a">Bl. 1r: [D 302.] "Labetrank der Liebe. den 15. Oct. 1815. Frz. Schubertmpia". Incipit: "Wenn im Spiele leiser Töne". [Lied. Text: Josef Ludwig Stoll.] - Bl. 1v Mitte - Bl. 2r Mitte: [D 303.] "An die Geliebte. den 15. Oct. 1815." Incipit: "O, daß ich dir vom stillen Auge". [Lied. Text: Josef Ludwig Stoll.] - Bl. 2r Mitte - Bl. 2v Mitte: [D 304.] "Wiegenlied. den 15. Oct. 1815." Incipit: "Schlummre sanft!" [Lied. Text: Theodor Körner.] - Bl. 2v Mitte - Bl. 3r: [D 305. Mein Gruß an den Mai] "Mein Gruß an den May. den 15. Oct. 1815." Incipit: "Sei mir gegrüßet, o May". [Lied. Text: Johann Gottfried Kumpf.] - Bl. 3v: [D 306.] "Skolie. den 15. Oct. 1815." Incipit: "Laßt im Morgenstrahl des Mai'n". [Lied. Text: Johann Ludwig Ferdinand von Deinhardstein.] - Bl. 4r: [D 307.] "Die Sternenwelten. den 15. Oct. 1815." Incipit: "Oben drehen sich die großen unbekannten Welten dort". [Lied. Text: Urban Jarnik, deutsch von Johann Georg Fellinger.] - Bl. 4v: [D 308.] "Die Macht der Liebe. den 15. Oct. 1815." Incipit: "Überall, wohin mein Auge blicket". [Lied. Text: Johann Nepomuk von Kalchberg.]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="544">
+<subfield label="a">Mus.Hs.40994</subfield>
+<subfield label="c">Mus</subfield>
+<subfield label="e">A/Schubert/16</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10007</subfield>
+<subfield label="z">Link zu Scan D 302 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10008</subfield>
+<subfield label="z">Link zu Scan D 303 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10009</subfield>
+<subfield label="z">Link zu Scan D 304 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10010</subfield>
+<subfield label="z">Link zu Scan D 305 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10011</subfield>
+<subfield label="z">Link zu Scan D 306 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10012</subfield>
+<subfield label="z">Link zu Scan D 307 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://www.schubert-online.at/index_einzelansicht.php?werke_id=10013</subfield>
+<subfield label="z">Link zu Scan D 308 auf www.schubert-online.at</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="662">
+<subfield label="a">12-zeiliges, rastriertes Notenpapier; Tinte</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="s">Vokalmusik</subfield>
+<subfield label="9">(DE-588)4063783-9</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="s">Solo</subfield>
+<subfield label="h">Musik</subfield>
+<subfield label="9">(DE-588)4313218-2</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="f">Musikhandschrift</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="LOW">
+<subfield label="a">ZNAK</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20090403</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1622</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20090403</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1642</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSTM</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20110607</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1446</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSTM</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20110607</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1448</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSTM</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20110607</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1449</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSTM</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20110607</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1450</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSTM</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20110607</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1452</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20120510</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1020</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140825</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1426</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141017</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1134</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141114</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1150</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141215</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1359</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20150113</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0959</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20150113</subfield>
+<subfield label="l">ONB06</subfield>
+<subfield label="h">0959</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="RAO">
+<subfield label="u">http://opac.obvsg.at/acc05-own/acc05-znak.html</subfield>
+<subfield label="z">Österr. Nationalbibliothek</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.40994 A/Schubert/16</subfield>
+<subfield label="5">+Z95062901</subfield>
+<subfield label="8">20090403</subfield>
+<subfield label="f">02</subfield>
+<subfield label="F">benützbar</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3742419&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>DB2VGN23Y3Y63YC2P5TYC465D2SKGV5499VCXCE6XQXDPXNKXK</session-id>
+</present>

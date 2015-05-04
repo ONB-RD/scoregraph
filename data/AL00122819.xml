@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><present>
+<record>
+<record_header>
+<set_entry>000000001</set_entry>
+</record_header>
+<doc_number>000115804</doc_number>
+<metadata>
+<oai_marc>
+<fixfield id="LDR">-----nM2.01200024------h</fixfield>
+<fixfield id="FMT">MH</fixfield>
+<varfield i1="-" i2="1" id="001">
+<subfield label="a">AL00122819</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="002">
+<subfield label="a">20090609</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="003">
+<subfield label="a">20141120</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="037">
+<subfield label="a">ger</subfield>
+</varfield>
+<fixfield id="050">|aa|||||||||||</fixfield>
+<fixfield id="051">|m||||||</fixfield>
+<fixfield id="053">3|</fixfield>
+<varfield i1="-" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="070">
+<subfield label="a">ONB-HANNA</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<!-- Author: http://d-nb.info/gnd/118509322/about/lds
+	 Contextual data: name variants, familal relationships, place/date of birth, place/date of death, gender 
+	 Outoging links: Wikipedia, DBpedia, filmportal.de
+-->
+<varfield i1="-" i2="1" id="100">
+<subfield label="p">Berg, Alban</subfield>
+<subfield label="d">1885-1935</subfield>
+<subfield label="9">(DE-588)118509322</subfield>
+<subfield label="b">[Komponist]</subfield>
+</varfield>
+<!-- MusicalWork: http://d-nb.info/gnd/300018657/about/lds
+	 Contextual data: Title, subject terms, geographic are code, definition, date of production
+	 Outgoing links: Wikipedia
+-->
+<varfield i1="-" i2="1" id="303">
+<subfield label="p">Berg, Alban</subfield>
+<subfield label="d">1885-1935</subfield>
+<subfield label="t">Lulu</subfield>
+<subfield label="9">(DE-588)300018657</subfield>
+<subfield label="z">3. Akt. Fragment</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="304">
+<subfield label="a">Lulu / 3. Akt. Fragment</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="331">
+<subfield label="a">Lulu</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="335">
+<subfield label="a">[Oper in drei Akten nach den Tragödien Erdgeist und Büchse der Pandora von Frank Wedekind] ; III. Akt</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="359">
+<subfield label="a">Alban Berg</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="425">
+<subfield label="a">27.10.35</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="425">
+<subfield label="a">27.10.1935</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="433">
+<subfield label="a">Partitur (Fragment) zum III. Akt., Autograph, 42 Bl.; 2 Bl. mit hs. Anmerkungen von Helene Berg (Bl. 1a u. 38a); 2 beschriftete Umschläge</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="435">
+<subfield label="a">44 x 34 cm</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="451">
+<subfield label="a">Nachlass Alban Berg</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="501">
+<subfield label="a">Anmerkungen: Das Titelblatt der Partitur trägt Bergs eigenhändiges Datum: "27.10.35". - In der bisher bekannten Version des Schlußteiles der Oper fehlen die Takte 1162-1300 (Zählung nach dem Particell), die an Takt 34 des Adagios anschließen. Auch die Textstellen im 4. und 5. Satz sind in den Symphonischen Stücken weggefallen.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="544">
+<subfield label="a">F21.Berg.30-GF</subfield>
+<subfield label="c">Mus</subfield>
+<subfield label="e">A/Berg/3-GF</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="662">
+<subfield label="a">Bleistift mit Farbstifteintragungen; 24 liniges Notenpapier</subfield>
+</varfield>
+<varfield i1="m" i2="1" id="750">
+<subfield label="a">Inhalt: Takte 1-268 des III. Aktes und [Zählung nach der Taschenpartitur der Symphonischen Stücke] Adagio, Takte 1-34, 80-110; ferner Schluß des Ostinato des II. Aktes, Takte 719-721 [Zählung w.o.]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="s">Musiktheater</subfield>
+<subfield label="9">(DE-588)4040874-7</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="f">Musikhandschrift</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="LOW">
+<subfield label="a">ZNAK</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20090609</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1350</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20110609</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1333</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20120510</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1021</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140714</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1452</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141002</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0847</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141110</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1357</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141120</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0922</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141120</subfield>
+<subfield label="l">ONB06</subfield>
+<subfield label="h">0922</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="RAO">
+<subfield label="u">http://opac.obvsg.at/acc05-own/acc05-znak.html</subfield>
+<subfield label="z">Österr. Nationalbibliothek</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">F21.Berg.30-GF A/Berg/3-GF</subfield>
+<subfield label="5">+Z95132204</subfield>
+<subfield label="8">20090609</subfield>
+<subfield label="f">02</subfield>
+<subfield label="F">benützbar</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4926273&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>GTI7RHJ814F26VHTBK54NETNVERFF4YY672ICA1S5YKQ6G9CNC</session-id>
+</present>
