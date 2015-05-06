@@ -24,13 +24,13 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118632825",
+            "gnd_uri": "http://d-nb.info/gnd/118632825",
             "lifetime": "1670-1724",
             "name": "Wilderer, Johann Hugo <<von>>",
             "role": "Komponist"
         },
         {
-            "gnd_link": null,
+            "gnd_uri": null,
             "lifetime": null,
             "name": "Krafft, Georg",
             "role": "Komponist"

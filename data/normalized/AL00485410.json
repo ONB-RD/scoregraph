@@ -41,25 +41,25 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/119253933",
+            "gnd_uri": "http://d-nb.info/gnd/119253933",
             "lifetime": "1623-1669",
             "name": "Cesti, Antonio",
             "role": "Komponist"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/118571869",
+            "gnd_uri": "http://d-nb.info/gnd/118571869",
             "lifetime": "1640-1705",
             "name": "Leopold",
             "role": "Komponist"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/10431821X",
+            "gnd_uri": "http://d-nb.info/gnd/10431821X",
             "lifetime": "1623-1680",
             "name": "Schmelzer, Johann Heinrich",
             "role": "Komponist"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/124646522",
+            "gnd_uri": "http://d-nb.info/gnd/124646522",
             "lifetime": "1611-1668",
             "name": "Sbarra, Francesco",
             "role": "Text"

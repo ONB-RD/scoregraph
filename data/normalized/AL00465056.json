@@ -24,13 +24,13 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118634712",
+            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
             "role": "Komponist"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/118603817",
+            "gnd_uri": "http://d-nb.info/gnd/118603817",
             "lifetime": "1788-1866",
             "name": "Rückert, Friedrich",
             "role": "Text"

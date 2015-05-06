@@ -30,7 +30,7 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118634712",
+            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
             "role": "Dokumentierte Person"

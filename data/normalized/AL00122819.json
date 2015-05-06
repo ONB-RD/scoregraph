@@ -22,7 +22,7 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118509322",
+            "gnd_uri": "http://d-nb.info/gnd/118509322",
             "lifetime": "1885-1935",
             "name": "Berg, Alban",
             "role": "Komponist"

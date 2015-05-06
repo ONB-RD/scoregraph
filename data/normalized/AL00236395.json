@@ -41,19 +41,19 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118634712",
+            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
             "role": "Verfasser"
         },
         {
-            "gnd_link": null,
+            "gnd_uri": null,
             "lifetime": null,
             "name": "Wolf, Katharina",
             "role": "Adressatin"
         },
         {
-            "gnd_link": null,
+            "gnd_uri": null,
             "lifetime": null,
             "name": "Wolf, Philipp",
             "role": "Adressat"

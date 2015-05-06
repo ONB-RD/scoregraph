@@ -24,7 +24,7 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118539841",
+            "gnd_uri": "http://d-nb.info/gnd/118539841",
             "lifetime": "1714-1787",
             "name": "Gluck, Christoph Willibald",
             "role": "Dokumentierte Person"

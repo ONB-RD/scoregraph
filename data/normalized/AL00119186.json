@@ -50,49 +50,49 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118610961",
+            "gnd_uri": "http://d-nb.info/gnd/118610961",
             "lifetime": "1797-1828",
             "name": "Schubert, Franz",
             "role": "Komponist"
         },
         {
-            "gnd_link": null,
+            "gnd_uri": null,
             "lifetime": null,
             "name": "Stoll, Ludwig Joseph",
             "role": "Text"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/118713507",
+            "gnd_uri": "http://d-nb.info/gnd/118713507",
             "lifetime": "1791-1813",
             "name": "Körner, Theodor",
             "role": "Text"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/132145901",
+            "gnd_uri": "http://d-nb.info/gnd/132145901",
             "lifetime": "1781-1862",
             "name": "Kumpf, Johann Gottfried",
             "role": "Text"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/116055448",
+            "gnd_uri": "http://d-nb.info/gnd/116055448",
             "lifetime": "1794-1859",
             "name": "Deinhardstein, Johann Ludwig",
             "role": "Text"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/118842188",
+            "gnd_uri": "http://d-nb.info/gnd/118842188",
             "lifetime": "1784-1844",
             "name": "Jarnik, Urban",
             "role": "Text"
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/136659837",
+            "gnd_uri": "http://d-nb.info/gnd/136659837",
             "lifetime": "1781-1816",
             "name": "Fellinger, Johann Georg",
             "role": "Text"
         },
         {
-            "gnd_link": null,
+            "gnd_uri": null,
             "lifetime": null,
             "name": "Kalchberg, Johann Nepomuk <<von>>",
             "role": "Text"

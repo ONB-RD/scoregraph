@@ -23,7 +23,7 @@
     ],
     "persons": [
         {
-            "gnd_link": "http://d-nb.info/gnd/118515799",
+            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
             "role": "Komponist"

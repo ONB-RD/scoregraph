@@ -3,7 +3,7 @@
 Script for extracting relevant data points from raw data.
 
 Invocation:
-$ normalize.py
+$ python normalize.py
 """
 import os
 import json
@@ -48,7 +48,7 @@ def persons(soup):
             'name': name,
             'lifetime': lifetime,
             'role': role,
-            'gnd_link': gnd_link
+            'gnd_uri': gnd_link
         }
         persons.append(person)
     return persons
