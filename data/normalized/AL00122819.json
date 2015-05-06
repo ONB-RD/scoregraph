@@ -1,0 +1,52 @@
+{
+    "content": [
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4926273&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "27.10.35",
+        "27.10.1935"
+    ],
+    "gnd_uri": "http://d-nb.info/gnd/300018657",
+    "id": "000115804",
+    "notes": [
+        "27.10.35",
+        "27.10.1935",
+        "Partitur (Fragment) zum III. Akt., Autograph, 42 Bl.; 2 Bl. mit hs. Anmerkungen von Helene Berg (Bl. 1a u. 38a); 2 beschriftete Umschläge",
+        "44 x 34 cm",
+        "Nachlass Alban Berg",
+        "Anmerkungen: Das Titelblatt der Partitur trägt Bergs eigenhändiges Datum: \"27.10.35\". - In der bisher bekannten Version des Schlußteiles der Oper fehlen die Takte 1162-1300 (Zählung nach dem Particell), die an Takt 34 des Adagios anschließen. Auch die Textstellen im 4. und 5. Satz sind in den Symphonischen Stücken weggefallen.",
+        "F21.Berg.30-GF"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118509322",
+            "lifetime": "1885-1935",
+            "name": "Berg, Alban",
+            "role": "Komponist"
+        }
+    ],
+    "subtitles": [
+        "Lulu / 3. Akt. Fragment",
+        "Lulu",
+        "Oper in drei Akten nach den Tragödien Erdgeist und Büchse der Pandora von Frank Wedekind ; III. Akt",
+        "Alban Berg"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4040874-7",
+            "labels": [
+                "Musiktheater"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": "Lulu"
+}

@@ -1,0 +1,43 @@
+{
+    "content": [
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4051222&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "18.10.1869"
+    ],
+    "gnd_uri": null,
+    "id": "000110103",
+    "notes": [
+        "Wien",
+        "18.10.1869",
+        "Brief, Autograph, 2 Bl. (Bl. 2v leer)",
+        "Mus.Hs.43534"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118515799",
+            "lifetime": "1824-1896",
+            "name": "Bruckner, Anton",
+            "role": "Verfasser"
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/119286661",
+            "lifetime": "1779-1840",
+            "name": "Schiedermayr, Johann Baptist",
+            "role": "Adressat"
+        }
+    ],
+    "subtitles": [],
+    "terms": [
+        {
+            "gnd_link": null,
+            "labels": [
+                "Korrespondenz"
+            ]
+        }
+    ],
+    "title": null
+}

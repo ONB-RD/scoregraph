@@ -1,0 +1,65 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0121853"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3500564&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "05.04.1878"
+    ],
+    "gnd_uri": null,
+    "id": "000447252",
+    "notes": [
+        "Wien",
+        "05.04.1878",
+        "Autograph, 2 Bl.",
+        "32,6 x 24,8 cm",
+        "Bl. 1r, links oben: \"Wien am 5. April 878\". - Bl. 2r, unten: \"29. Juni 878\". - Bl. 2v leer. - Frühere Signatur: Suppl.4447",
+        "Mus.Hs.24"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118634712",
+            "lifetime": "1860-1903",
+            "name": "Wolf, Hugo",
+            "role": "Komponist"
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/118603817",
+            "lifetime": "1788-1866",
+            "name": "Rückert, Friedrich",
+            "role": "Text"
+        }
+    ],
+    "subtitles": [
+        "Sechs Lieder für eine Frauenstimme. Nr. 3, Die Spinnerin",
+        "Für Gesang und Klavier"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4063783-9",
+            "labels": [
+                "Vokalmusik"
+            ]
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/4313218-2",
+            "labels": [
+                "Solo",
+                "Musik"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": null
+}

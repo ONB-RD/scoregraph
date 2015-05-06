@@ -1,0 +1,44 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0054037"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3643439&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "1872"
+    ],
+    "gnd_uri": null,
+    "id": "000214250",
+    "notes": [
+        "1872",
+        "222 Bl., Eintragungen Autograph Bruckner am Titelbl. u. Bl. 39r",
+        "20,5 x 14,2 cm",
+        "Bl. 39r: \"Symfonie in D moll Sr Hochwohlgeboren Herrn Herrn Richard Wagner, dem unerreichbaren, weltberühmten und erhabenen Meister der Dicht- und Tonkunst in tiefster Ehrfurcht gewidmet von Anton Bruckner.\"",
+        "Mus.Hs.3180"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118515799",
+            "lifetime": "1824-1896",
+            "name": "Bruckner, Anton",
+            "role": "Verfasser"
+        }
+    ],
+    "subtitles": [
+        "Autographe Eintragungen von Bruckner aus dem Jahr 1872 in: Krippen-Kalender für das Jahr 1872. Zwanzigster Jahrgang. - Wien: Carl Gronemeyer (Prandel's Buchhandlung)."
+    ],
+    "terms": [
+        {
+            "gnd_link": null,
+            "labels": [
+                "Taschenkalender"
+            ]
+        }
+    ],
+    "title": null
+}

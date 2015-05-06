@@ -1,0 +1,51 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0121979"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3497304&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3634438&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3634568&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [],
+    "gnd_uri": null,
+    "id": "000448719",
+    "notes": [
+        "Gutachten, Aktenstücke, Briefe u. a in 16 Umschlägen",
+        "Nachlass Hugo Wolf",
+        "Titel fingiert",
+        "1a-f) Parere [Gutachten] von Dr. Rössler, Ebensee, 2. 10. 1898, über den Selbstmordversuch Hugo Wolfs und die Notwendigkeit der Einweisung in eine Anstalt. Original, 2 Bl. mit 5 maschinschr. Abschriften. - 2a-c) Bleistiftnotizen (Dr. Josef Berzc) mit 2 verschiedenen Abschriften (je 1 Bl.) - 3a-c) 3 Aktenstücke des k. k. Landesgerichtes Wien in Civilrechtssachen, Abt. XI, 25. 11. 1898, 25. 5. 1899 u. 11. 9. 1899, je 1 Bl. - 4) 1 Aktenstück des k. k. Berzirksgerichts Wieden, 20. 10. 1899, Bestellung von Dr. Max Egger zum Curator für Hugo Wolf, 1 Bl. - 5a-c) 3 Briefe des Hugo-Wolf-Vereins in Wien (Prof. Michael Haberlandt) an die niederösterreichische Landesirrenanstalt Wien: Anfragen über Wolfs Zustand, Bitte um Bestätigungen (Nov. 1898, Nov. 1899, Dez. 1902), je 2 Bl. - 6a-b) Auszug aus dem Hauptstandesprotokoll (Niederösterreichischen Landesirrenanstalt), 1 Bl. nebst maschinschr. Abschrift u. 1 Zettel über den Tod von Theodor Köchert. - 7) Telegramm von Gilbert Wolf aus Cilli, 31. 12. 1901 mit Bitte um Bericht über den Zustand Hugo Wolfs, 1 Bl.",
+        "8) Bericht v. Dr. [Hans] Schnopfhagen über Hugo Wolf, 13. 11. 1933, 2 Bl., maschinschr. Abschrift. - 9a-c) Eigenhändiger Bericht von Dr. [Hans] Schnopfhagen über Hugo Wolf mit 2 maschinschr. Abschriften, je 2 Bl. [Dieser Bericht ist später entstanden, als derjenige unter Punkt 8). - 10a-b) Korrespondenz Dr. Vorberg, München, Irrenanstalt, März 1920, 2 Bl. - 11a-c) Korrespondenz H. Schonten, Haag, Irrenanstalt, Okt. / Nov. 1933, 3 Bl. - 12a-e) Korrespondenz Dr. Schaffner (München), Irrenanstalt, Okt. / Nov. 1942, 6 Bl. - 13a-e) Korrespondenz K. A. Eickemeyer, Jena, Irrenanstalt, Okt. / Nov. 1943, 5 Bl. - 14) Brief von Marie Oehn an Frl. von Schoeppl, 19. 9. 1945, 2 Bl. - 15) Buchbesprechung aus \"Deutsche medizinische Wochenschrift\", LX, 22, 1. 6. 1934, S. 841, 1 Bl., maschinschr. - 16) Umschlag [des Aktes Hugo Wolf] mit Bleistift-Aufschrift \"Wolf Hugo 788 / 98 22. / 203 +\"",
+        "Misc.85"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118634712",
+            "lifetime": "1860-1903",
+            "name": "Wolf, Hugo",
+            "role": "Dokumentierte Person"
+        }
+    ],
+    "subtitles": [
+        "Materialien zu Hugo Wolfs Krankheit"
+    ],
+    "terms": [
+        {
+            "gnd_link": null,
+            "labels": [
+                "Lebensdokument"
+            ]
+        }
+    ],
+    "title": null
+}

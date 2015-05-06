@@ -1,0 +1,89 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0021605"
+        },
+        {
+            "note": "Alte Titelaufnahme",
+            "uri": "http://data.onb.ac.at/mus/MZ00821605"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898063&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898446&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898854&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4899402&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "1668"
+    ],
+    "gnd_uri": "http://d-nb.info/gnd/4378329-6",
+    "id": "000466199",
+    "notes": [
+        "1668",
+        "Partitur, Handschrift (17. Jh.), Abschrift (von Riotti); 53, 97, 76, 70 Bl.",
+        "Leopoldina – Privatbibliothek Kaiser Leopolds I.",
+        "Fatta per la nascita della maesta del'imperatrice Margherita",
+        "Einlagearien von Leopold I. (II. Akt. 9 Szene Arie \"Ecco Paride il giusto\")",
+        "Ballettmusik von Johann Heinrich Schmelzer. [Die Ballette fehlen]",
+        "Mus.Hs.16885"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/119253933",
+            "lifetime": "1623-1669",
+            "name": "Cesti, Antonio",
+            "role": "Komponist"
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/118571869",
+            "lifetime": "1640-1705",
+            "name": "Leopold",
+            "role": "Komponist"
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/10431821X",
+            "lifetime": "1623-1680",
+            "name": "Schmelzer, Johann Heinrich",
+            "role": "Komponist"
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/124646522",
+            "lifetime": "1611-1668",
+            "name": "Sbarra, Francesco",
+            "role": "Text"
+        }
+    ],
+    "subtitles": [
+        "<<Il>> pomo d'oro",
+        "Il pomo d'oro",
+        "Festa teatrale in 5 atti con prologo",
+        "Poesia di Francesco Sbarra"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4040874-7",
+            "labels": [
+                "Musiktheater"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": "<<Il>> pomo d'oro"
+}

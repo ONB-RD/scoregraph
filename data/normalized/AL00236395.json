@@ -1,0 +1,74 @@
+{
+    "content": [
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3637811&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3637829&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3637793&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3637875&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3637765&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3637857&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "22.12.1877-10.03.1887"
+    ],
+    "gnd_uri": null,
+    "id": "000219215",
+    "notes": [
+        "Wien",
+        "22.12.1877-10.03.1887",
+        "6 Briefe, Autograph",
+        "1) 20,2 x 12,9 cm, 2) 21,4 x 13,4 cm, 3) 20,3 x 12,7 cm, 4) u. 5) 19,9 x 12,7 cm, 6) 17,7 x 11,4 cm",
+        "Titel fingiert",
+        "1) Brief, Wien, 22. 12. 1877, 2 Bl. - 2) Brief, Wien, 26. 9. 1878, 1 Bl. - 3) Brief, Wien, 30. 11. 1878, 1 Bl. - 4) Brief, ohne Ort, 25. 12. 1878, 2 Bl. - 5) Brief, Wien, 13. 1. 1879, 1 Bl. - 6) Brief, Wien, 10. 3. 1887, 2 Bl. (von Bl. 1 wurde rechts oben ein kleiner Teil abgeschnitten)",
+        "Mus.Hs.43323/1-6"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118634712",
+            "lifetime": "1860-1903",
+            "name": "Wolf, Hugo",
+            "role": "Verfasser"
+        },
+        {
+            "gnd_link": null,
+            "lifetime": null,
+            "name": "Wolf, Katharina",
+            "role": "Adressatin"
+        },
+        {
+            "gnd_link": null,
+            "lifetime": null,
+            "name": "Wolf, Philipp",
+            "role": "Adressat"
+        }
+    ],
+    "subtitles": [
+        "6 Briefe an Katharina und Philipp Wolf"
+    ],
+    "terms": [
+        {
+            "gnd_link": null,
+            "labels": [
+                "Korrespondenz"
+            ]
+        }
+    ],
+    "title": null
+}

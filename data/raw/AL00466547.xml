@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?><present>
+<record>
+<record_header>
+<set_entry>000000001</set_entry>
+</record_header>
+<doc_number>000448719</doc_number>
+<metadata>
+<oai_marc>
+<fixfield id="LDR">-----nM2.01200024------h</fixfield>
+<fixfield id="FMT">MH</fixfield>
+<varfield i1="-" i2="1" id="001">
+<subfield label="a">AL00466547</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="002">
+<subfield label="a">20121115</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="003">
+<subfield label="a">20141120</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="037">
+<subfield label="a">ger</subfield>
+</varfield>
+<fixfield id="053">l|</fixfield>
+<varfield i1="-" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="070">
+<subfield label="a">ONB-HANNA</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="100">
+<subfield label="p">Wolf, Hugo</subfield>
+<subfield label="d">1860-1903</subfield>
+<subfield label="9">(DE-588)118634712</subfield>
+<subfield label="b">[Dokumentierte Person]</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="331">
+<subfield label="a">Materialien zu Hugo Wolfs Krankheit</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="433">
+<subfield label="a">Gutachten, Aktenstücke, Briefe u. a in 16 Umschlägen</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="451">
+<subfield label="a">Nachlass Hugo Wolf</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="501">
+<subfield label="a">Titel fingiert</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="517">
+<subfield label="a">1a-f) Parere [Gutachten] von Dr. Rössler, Ebensee, 2. 10. 1898, über den Selbstmordversuch Hugo Wolfs und die Notwendigkeit der Einweisung in eine Anstalt. Original, 2 Bl. mit 5 maschinschr. Abschriften. - 2a-c) Bleistiftnotizen (Dr. Josef Berzc) mit 2 verschiedenen Abschriften (je 1 Bl.) - 3a-c) 3 Aktenstücke des k. k. Landesgerichtes Wien in Civilrechtssachen, Abt. XI, 25. 11. 1898, 25. 5. 1899 u. 11. 9. 1899, je 1 Bl. - 4) 1 Aktenstück des k. k. Berzirksgerichts Wieden, 20. 10. 1899, Bestellung von Dr. Max Egger zum Curator für Hugo Wolf, 1 Bl. - 5a-c) 3 Briefe des Hugo-Wolf-Vereins in Wien (Prof. Michael Haberlandt) an die niederösterreichische Landesirrenanstalt Wien: Anfragen über Wolfs Zustand, Bitte um Bestätigungen (Nov. 1898, Nov. 1899, Dez. 1902), je 2 Bl. - 6a-b) Auszug aus dem Hauptstandesprotokoll (Niederösterreichischen Landesirrenanstalt), 1 Bl. nebst maschinschr. Abschrift u. 1 Zettel über den Tod von Theodor Köchert. - 7) Telegramm von Gilbert Wolf aus Cilli, 31. 12. 1901 mit Bitte um Bericht über den Zustand Hugo Wolfs, 1 Bl.</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="517">
+<subfield label="a">8) Bericht v. Dr. [Hans] Schnopfhagen über Hugo Wolf, 13. 11. 1933, 2 Bl., maschinschr. Abschrift. - 9a-c) Eigenhändiger Bericht von Dr. [Hans] Schnopfhagen über Hugo Wolf mit 2 maschinschr. Abschriften, je 2 Bl. [Dieser Bericht ist später entstanden, als derjenige unter Punkt 8). - 10a-b) Korrespondenz Dr. Vorberg, München, Irrenanstalt, März 1920, 2 Bl. - 11a-c) Korrespondenz H. Schonten, Haag, Irrenanstalt, Okt. / Nov. 1933, 3 Bl. - 12a-e) Korrespondenz Dr. Schaffner (München), Irrenanstalt, Okt. / Nov. 1942, 6 Bl. - 13a-e) Korrespondenz K. A. Eickemeyer, Jena, Irrenanstalt, Okt. / Nov. 1943, 5 Bl. - 14) Brief von Marie Oehn an Frl. von Schoeppl, 19. 9. 1945, 2 Bl. - 15) Buchbesprechung aus "Deutsche medizinische Wochenschrift", LX, 22, 1. 6. 1934, S. 841, 1 Bl., maschinschr. - 16) Umschlag [des Aktes Hugo Wolf] mit Bleistift-Aufschrift "Wolf Hugo 788 / 98 22. / 203 +"</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="544">
+<subfield label="a">Misc.85</subfield>
+<subfield label="c">Mus</subfield>
+<subfield label="e">A/Wolf/148</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&amp;kz=1&amp;start=0121979</subfield>
+<subfield label="z">Zettel</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="f">Lebensdokument</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="LOW">
+<subfield label="a">ZNAK</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSPA</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20121115</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1208</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSPA</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20121116</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0848</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSPA</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20121116</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0926</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSPA</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20121116</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1135</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140220</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1201</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141003</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1445</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBCTR</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141120</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1215</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20141120</subfield>
+<subfield label="l">ONB06</subfield>
+<subfield label="h">1215</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="RAO">
+<subfield label="u">http://opac.obvsg.at/acc05-own/acc05-znak.html</subfield>
+<subfield label="z">Österr. Nationalbibliothek</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85 A/Wolf/148</subfield>
+<subfield label="5">+Z138452104</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">02</subfield>
+<subfield label="F">benützbar</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/10a A/Wolf/148</subfield>
+<subfield label="5">+Z138454605</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/10b A/Wolf/148</subfield>
+<subfield label="5">+Z138454502</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/11a A/Wolf/148</subfield>
+<subfield label="5">+Z138454903</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/11b A/Wolf/148</subfield>
+<subfield label="5">+Z138454800</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/11c A/Wolf/148</subfield>
+<subfield label="5">+Z138454708</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/12a A/Wolf/148</subfield>
+<subfield label="5">+Z138455403</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/12b A/Wolf/148</subfield>
+<subfield label="5">+Z138455300</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/12c A/Wolf/148</subfield>
+<subfield label="5">+Z138455208</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/12d A/Wolf/148</subfield>
+<subfield label="5">+Z138455105</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/12e A/Wolf/148</subfield>
+<subfield label="5">+Z138455002</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/13a-b) A/Wolf/148</subfield>
+<subfield label="5">+Z138455804</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/13c A/Wolf/148</subfield>
+<subfield label="5">+Z138455701</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/13d A/Wolf/148</subfield>
+<subfield label="5">+Z138455609</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/13e A/Wolf/148</subfield>
+<subfield label="5">+Z138455506</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/14 A/Wolf/148</subfield>
+<subfield label="5">+Z138455907</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/15 A/Wolf/148</subfield>
+<subfield label="5">+Z138456006</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/16 A/Wolf/148</subfield>
+<subfield label="5">+Z138456109</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/1a A/Wolf/148</subfield>
+<subfield label="5">+Z138452700</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/1b A/Wolf/148</subfield>
+<subfield label="5">+Z138452608</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/1c A/Wolf/148</subfield>
+<subfield label="5">+Z138452505</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/1d A/Wolf/148</subfield>
+<subfield label="5">+Z138452402</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/1e A/Wolf/148</subfield>
+<subfield label="5">+Z13845230X</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/1f A/Wolf/148</subfield>
+<subfield label="5">+Z138452207</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/2a A/Wolf/148</subfield>
+<subfield label="5">+Z138453005</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/2b A/Wolf/148</subfield>
+<subfield label="5">+Z138452906</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/2c A/Wolf/148</subfield>
+<subfield label="5">+Z138452803</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/3a A/Wolf/148</subfield>
+<subfield label="5">+Z138453303</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/3b A/Wolf/148</subfield>
+<subfield label="5">+Z138453200</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/3c A/Wolf/148</subfield>
+<subfield label="5">+Z138453108</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/4 A/Wolf/148</subfield>
+<subfield label="5">+Z138453406</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/5a A/Wolf/148</subfield>
+<subfield label="5">+Z138453704</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/5b A/Wolf/148</subfield>
+<subfield label="5">+Z138453601</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/5c A/Wolf/148</subfield>
+<subfield label="5">+Z138453509</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/6a A/Wolf/148</subfield>
+<subfield label="5">+Z13845390X</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/6b A/Wolf/148</subfield>
+<subfield label="5">+Z138453807</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/7 A/Wolf/148</subfield>
+<subfield label="5">+Z138454009</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/8 A/Wolf/148</subfield>
+<subfield label="5">+Z138454101</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/9a A/Wolf/148</subfield>
+<subfield label="5">+Z13845440X</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/9b A/Wolf/148</subfield>
+<subfield label="5">+Z138454307</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Misc.85/9c A/Wolf/148</subfield>
+<subfield label="5">+Z138454204</subfield>
+<subfield label="8">20121116</subfield>
+<subfield label="f">55</subfield>
+<subfield label="F">Digitalisierungsworkflow</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3497304&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3634438&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3634568&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>BB2RNJU6X2Y5F4L3E66JHXNND6VT87GLHUMRHXJQEKS7L4985M</session-id>
+</present>

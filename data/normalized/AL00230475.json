@@ -1,0 +1,52 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0018981"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3560253&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "1879"
+    ],
+    "gnd_uri": "http://d-nb.info/gnd/300029888",
+    "id": "000213889",
+    "notes": [
+        "Wien",
+        "1879",
+        "Partitur, Autograph, 43 Bl.",
+        "25,7 x 32,4 cm",
+        "Mus.Hs.19482"
+    ],
+    "persons": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/118515799",
+            "lifetime": "1824-1896",
+            "name": "Bruckner, Anton",
+            "role": "Komponist"
+        }
+    ],
+    "subtitles": [
+        "Quintette, Vl 1 2 Va 1 2 Vc, WAB 112",
+        "Quintett in F.",
+        "Streichquintett in F-Dur. WAB 112"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4136998-1",
+            "labels": [
+                "Kammermusik"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": "Quintette"
+}
