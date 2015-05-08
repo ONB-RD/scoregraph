@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00116352",
     "content": [
         {
             "note": "Digitalisat",
@@ -8,8 +9,8 @@
     "dates": [
         "18.10.1869"
     ],
+    "doc_id": "000110103",
     "gnd_uri": null,
-    "id": "000110103",
     "notes": [
         "Wien",
         "18.10.1869",

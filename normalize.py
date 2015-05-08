@@ -3,17 +3,21 @@
 Script for extracting relevant data points from raw data.
 
 Invocation:
-$ python normalize.py
+$ python normalize.py data/raw/*.xml -o data/normalized
 """
+
+import argparse
+import sys
 import os
-import json
+
 from bs4 import BeautifulSoup
 
-RAW_DATA_DIR = "data/raw"
-NORMALIZED_DATA_DIR = "data/normalized"
+from common import write_json_file, progress
 
 GND_PREFIX = "http://d-nb.info/gnd"
 
+
+# Metadata extraction functions
 
 def find_tags_in_id_range(soup, start, end):
     tags = [tag for tag in soup.find_all("varfield")
@@ -59,10 +63,12 @@ def content(soup):
     for tag in soup.find_all("varfield", id="655"):
         uri = tag.find("subfield", label="u")
         note = tag.find("subfield", label="z")
+        if note:
+            note = note.string
         if uri:
             content = {
                 'uri': uri.string,
-                'note': note.string
+                'note': note
             }
             contents.append(content)
     return contents
@@ -141,30 +147,60 @@ def doc_id(soup):
     return soup.doc_number.string
 
 
-def convert_to_json(xml_file):
-    with open(xml_file, 'r') as in_file:
-        soup = BeautifulSoup(in_file)
-        output = {
-            'id': doc_id(soup),
-            'title': title(soup),
-            'subtitles': subtitles(soup),
-            'persons': persons(soup),
-            'content': content(soup),
-            'dates': dates(soup),
-            'gnd_uri': gnd_link(soup),
-            'notes': notes(soup),
-            'terms': terms(soup)
-        }
-        return output
+def aleph_id(soup):
+    return soup.find("varfield", id="001").find("subfield", label="a").string
 
 
-def main():
-    for f in os.listdir(RAW_DATA_DIR):
-        output = convert_to_json(RAW_DATA_DIR + '/' + f)
-        outfile = f.replace("xml", "json")
-        with open(NORMALIZED_DATA_DIR + "/" + outfile, "w") as out_file:
-            json.dump(output, out_file, sort_keys=True, indent=4,
-                      ensure_ascii=False)
+# I/O handling
 
-if __name__ == "__main__":
-    main()
+def raw_records(inputfiles):
+    for filename in inputfiles:
+        with open(filename, 'r') as in_file:
+            data = in_file.read()
+            yield (filename, data)
+
+
+# Main normalization routine
+
+def normalize(raw_record):
+    soup = BeautifulSoup(raw_record)
+    normalized_record = {
+        'aleph_id': aleph_id(soup),
+        'doc_id': doc_id(soup),
+        'title': title(soup),
+        'subtitles': subtitles(soup),
+        'persons': persons(soup),
+        'content': content(soup),
+        'dates': dates(soup),
+        'gnd_uri': gnd_link(soup),
+        'notes': notes(soup),
+        'terms': terms(soup)
+    }
+    return normalized_record
+
+
+def normalize_records(inputfiles, outputdir):
+    print("Normalizing", len(inputfiles), "records to", outputdir)
+    for index, (filename, record) in enumerate(raw_records(inputfiles)):
+        progress(index/len(inputfiles))
+        normalized_record = normalize(record)
+        out_file = os.path.basename(filename).replace("xml", "json")
+        write_json_file(outputdir, out_file, normalized_record)
+
+
+# Command line parsing
+
+parser = argparse.ArgumentParser(
+                    description="Extract relevant fields and convert to JSON.")
+parser.add_argument('inputfiles', type=str, nargs='+',
+                    help="Input files to be processed")
+parser.add_argument('-o', '--outputdir', type=str, nargs='?',
+                    default="data/normalized",
+                    help="Output directory")
+
+if len(sys.argv) < 2:
+    parser.print_help()
+    sys.exit(1)
+
+args = parser.parse_args()
+normalize_records(args.inputfiles, args.outputdir)
