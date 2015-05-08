@@ -1,0 +1,168 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0021605"
+        },
+        {
+            "note": "Alte Titelaufnahme",
+            "uri": "http://data.onb.ac.at/mus/MZ00821605"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898063&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898446&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4898854&custom_att_2=simple_viewer"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4899402&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "1668"
+    ],
+    "europeana_enrichments": [
+        {
+            "creator": [
+                "http://d-nb.info/gnd/10431821X"
+            ],
+            "id": "/9200386/BibliographicResource_3000095845779",
+            "score": 16.571093,
+            "title": [
+                "ARIE PER IL BALLETTO à CAVALLO, Nella festa rappresentata PER LE GLORIOSISSIME NOZZE DELLE SS. CC. MM.ta DI LEOPOLDO PRIMO, IMPERATORE AUGUSTISSIMO, ET DI MARGHERITA INFANTA DI SPAGNA. Composte DALL GIOANNE ENRICO SCHMELZER, Musico di Camera di S. M. C",
+                "Arie per il balletto à cavallo"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/124646522"
+            ],
+            "id": "/9200386/BibliographicResource_3000044834745",
+            "score": 11.907969,
+            "title": [
+                "La Tirannide Dell'Interesse Tragedia Politicomorale Di Francesco Sbarra Rappresentata in Musica in Lucca nel Teatro de'Borthi",
+                "La Corte",
+                "La Tirannide Dell'Interesse, E La Corte .."
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/124646522"
+            ],
+            "id": "/9200386/BibliographicResource_3000044835014",
+            "score": 11.907969,
+            "title": [
+                "La Tirannide Dell'Interesse Tragedia Politicomorale Di Francesco Sbarra Rappresentata in Musica in Lucca nel Teatro de'Borthi",
+                "La Corte",
+                "La Tirannide Dell'Interesse, E La Corte .."
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/124646522"
+            ],
+            "id": "/9200386/BibliographicResource_3000044834731",
+            "score": 11.907969,
+            "title": [
+                "La Tirannide Dell'Interesse Tragedia Politicomorale Di Francesco Sbarra Rappresentata in Musica in Lucca nel Teatro de'Borthi",
+                "La Corte",
+                "La Tirannide Dell'Interesse, E La Corte .."
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/124646522"
+            ],
+            "id": "/9200386/BibliographicResource_3000044834518",
+            "score": 10.631781,
+            "title": [
+                "Opere"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/124646522"
+            ],
+            "id": "/9200386/BibliographicResource_3000044835208",
+            "score": 10.631781,
+            "title": [
+                "La moda"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/124646522"
+            ],
+            "id": "/9200386/BibliographicResource_3000044834848",
+            "score": 10.631781,
+            "title": [
+                "Opere"
+            ]
+        }
+    ],
+    "gnd_uri": "http://d-nb.info/gnd/4378329-6",
+    "id": "000466199",
+    "notes": [
+        "1668",
+        "Partitur, Handschrift (17. Jh.), Abschrift (von Riotti); 53, 97, 76, 70 Bl.",
+        "Leopoldina – Privatbibliothek Kaiser Leopolds I.",
+        "Fatta per la nascita della maesta del'imperatrice Margherita",
+        "Einlagearien von Leopold I. (II. Akt. 9 Szene Arie \"Ecco Paride il giusto\")",
+        "Ballettmusik von Johann Heinrich Schmelzer. [Die Ballette fehlen]",
+        "Mus.Hs.16885"
+    ],
+    "persons": [
+        {
+            "gnd_uri": "http://d-nb.info/gnd/119253933",
+            "lifetime": "1623-1669",
+            "name": "Cesti, Antonio",
+            "role": "Komponist"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/118571869",
+            "lifetime": "1640-1705",
+            "name": "Leopold",
+            "role": "Komponist"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/10431821X",
+            "lifetime": "1623-1680",
+            "name": "Schmelzer, Johann Heinrich",
+            "role": "Komponist"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/124646522",
+            "lifetime": "1611-1668",
+            "name": "Sbarra, Francesco",
+            "role": "Text"
+        }
+    ],
+    "subtitles": [
+        "<<Il>> pomo d'oro",
+        "Il pomo d'oro",
+        "Festa teatrale in 5 atti con prologo",
+        "Poesia di Francesco Sbarra"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4040874-7",
+            "labels": [
+                "Musiktheater"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": "<<Il>> pomo d'oro"
+}

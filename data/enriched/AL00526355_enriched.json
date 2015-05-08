@@ -1,0 +1,60 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0119439"
+        },
+        {
+            "note": "Alte Titelaufnahme",
+            "uri": "http://data.onb.ac.at/mus/MZ00919439"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4918467&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [],
+    "europeana_enrichments": [],
+    "gnd_uri": null,
+    "id": "000507156",
+    "notes": [
+        "Partitur, Handschrift (18. Jh.), 129 Bl.",
+        "Leopoldina – Privatbibliothek Kaiser Leopolds I.",
+        "Auch \"Balli\" (Tänze) von den Komponisten",
+        "Mus.Hs.17929"
+    ],
+    "persons": [
+        {
+            "gnd_uri": "http://d-nb.info/gnd/118632825",
+            "lifetime": "1670-1724",
+            "name": "Wilderer, Johann Hugo <<von>>",
+            "role": "Komponist"
+        },
+        {
+            "gnd_uri": null,
+            "lifetime": null,
+            "name": "Krafft, Georg",
+            "role": "Komponist"
+        }
+    ],
+    "subtitles": [
+        "La monarchia risoluta",
+        "Dramma",
+        "(Ouverture von Georg Krafft)"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4040874-7",
+            "labels": [
+                "Musiktheater"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": null
+}

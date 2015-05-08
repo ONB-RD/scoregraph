@@ -1,0 +1,262 @@
+{
+    "content": [
+        {
+            "note": "Link zu Scan D 302 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10007"
+        },
+        {
+            "note": "Link zu Scan D 303 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10008"
+        },
+        {
+            "note": "Link zu Scan D 304 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10009"
+        },
+        {
+            "note": "Link zu Scan D 305 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10010"
+        },
+        {
+            "note": "Link zu Scan D 306 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10011"
+        },
+        {
+            "note": "Link zu Scan D 307 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10012"
+        },
+        {
+            "note": "Link zu Scan D 308 auf www.schubert-online.at",
+            "uri": "http://www.schubert-online.at/index_einzelansicht.php?werke_id=10013"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3742419&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "15. Oct. 1815",
+        "15.10.1815"
+    ],
+    "europeana_enrichments": [
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118610961"
+            ],
+            "id": "/9200386/BibliographicResource_3000059071184",
+            "score": 11.157888,
+            "title": [
+                "Frühlingsglaube von Uhland - BSB Mus.ms. 6578",
+                "Cim. 443"
+            ]
+        },
+        {
+            "creator": [
+                "Kumpf, Johann Gottfried",
+                "http://d-nb.info/gnd/132145901"
+            ],
+            "id": "/9200332/BibliographicResource_3000123575115",
+            "score": 12.0550785,
+            "title": [
+                "Bey Gelegenheit der Fahnenweihe der Triester-Landwehre am 26ten März 1809 : Von Dr. Kumpf"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000044893657",
+            "score": 16.669088,
+            "title": [
+                "Dramatische Dichtungen"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000044893466",
+            "score": 16.669088,
+            "title": [
+                "Dramatische Dichtungen"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000044893605",
+            "score": 16.493908,
+            "title": [
+                "Skizzen einer Reise von Wien über Prag, Teplitz, Dresden, Berlin, Leipzig, ... München, Salzburg, Linz und von dort nach Wien zurück in Briefen an einen Freund"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045449465",
+            "score": 16.493908,
+            "title": [
+                "Ein deutscher Schullehrer Lebensbild mit Gesang und Tanz in drei Akten",
+                "Ein deutscher Schullehrer"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045094243",
+            "score": 15.617332,
+            "title": [
+                "Künstlerdramen - 2"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045094587",
+            "score": 15.617332,
+            "title": [
+                "Künstlerdramen - 1"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045246881",
+            "score": 15.518957,
+            "title": [
+                "Gesammelte dramatische Werke - 5"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045247250",
+            "score": 15.518957,
+            "title": [
+                "Gesammelte dramatische Werke - 1"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045247342",
+            "score": 15.518957,
+            "title": [
+                "Gesammelte dramatische Werke - 6: Hans Sachs. Die verschleierte Dame. Die Gönnerschaften. Das Bild der Danae"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/116055448"
+            ],
+            "id": "/9200386/BibliographicResource_3000045247400",
+            "score": 15.518957,
+            "title": [
+                "Gesammelte dramatische Werke - 1: Liebe und Liebelei. Der Egoist"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118842188"
+            ],
+            "id": "/9200386/BibliographicResource_3000044896146",
+            "score": 14.460993,
+            "title": [
+                "Versuch eines Etymologikons der slovenischen Mundart in Inner-Oesterreich"
+            ]
+        }
+    ],
+    "gnd_uri": "http://d-nb.info/gnd/300140924",
+    "id": "000112576",
+    "notes": [
+        "15. Oct. 1815",
+        "15.10.1815",
+        "Autograph, 4 Bl. (zwei ineinanderliegende, lose Doppelblätter)",
+        "22-23,5 x 31-31,5 cm",
+        "An den Rändern aller Blätter verschiedene Eintragungen in Bezug auf die Drucklegung von fremder Hand; mehrere divergierende Blatt- und Seitenzahlen.",
+        "Bl. 1r: [D 302.] \"Labetrank der Liebe. den 15. Oct. 1815. Frz. Schubertmpia\". Incipit: \"Wenn im Spiele leiser Töne\". [Lied. Text: Josef Ludwig Stoll.] - Bl. 1v Mitte - Bl. 2r Mitte: [D 303.] \"An die Geliebte. den 15. Oct. 1815.\" Incipit: \"O, daß ich dir vom stillen Auge\". [Lied. Text: Josef Ludwig Stoll.] - Bl. 2r Mitte - Bl. 2v Mitte: [D 304.] \"Wiegenlied. den 15. Oct. 1815.\" Incipit: \"Schlummre sanft!\" [Lied. Text: Theodor Körner.] - Bl. 2v Mitte - Bl. 3r: [D 305. Mein Gruß an den Mai] \"Mein Gruß an den May. den 15. Oct. 1815.\" Incipit: \"Sei mir gegrüßet, o May\". [Lied. Text: Johann Gottfried Kumpf.] - Bl. 3v: [D 306.] \"Skolie. den 15. Oct. 1815.\" Incipit: \"Laßt im Morgenstrahl des Mai'n\". [Lied. Text: Johann Ludwig Ferdinand von Deinhardstein.] - Bl. 4r: [D 307.] \"Die Sternenwelten. den 15. Oct. 1815.\" Incipit: \"Oben drehen sich die großen unbekannten Welten dort\". [Lied. Text: Urban Jarnik, deutsch von Johann Georg Fellinger.] - Bl. 4v: [D 308.] \"Die Macht der Liebe. den 15. Oct. 1815.\" Incipit: \"Überall, wohin mein Auge blicket\". [Lied. Text: Johann Nepomuk von Kalchberg.]",
+        "Mus.Hs.40994"
+    ],
+    "persons": [
+        {
+            "gnd_uri": "http://d-nb.info/gnd/118610961",
+            "lifetime": "1797-1828",
+            "name": "Schubert, Franz",
+            "role": "Komponist"
+        },
+        {
+            "gnd_uri": null,
+            "lifetime": null,
+            "name": "Stoll, Ludwig Joseph",
+            "role": "Text"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/118713507",
+            "lifetime": "1791-1813",
+            "name": "Körner, Theodor",
+            "role": "Text"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/132145901",
+            "lifetime": "1781-1862",
+            "name": "Kumpf, Johann Gottfried",
+            "role": "Text"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/116055448",
+            "lifetime": "1794-1859",
+            "name": "Deinhardstein, Johann Ludwig",
+            "role": "Text"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/118842188",
+            "lifetime": "1784-1844",
+            "name": "Jarnik, Urban",
+            "role": "Text"
+        },
+        {
+            "gnd_uri": "http://d-nb.info/gnd/136659837",
+            "lifetime": "1781-1816",
+            "name": "Fellinger, Johann Georg",
+            "role": "Text"
+        },
+        {
+            "gnd_uri": null,
+            "lifetime": null,
+            "name": "Kalchberg, Johann Nepomuk <<von>>",
+            "role": "Text"
+        }
+    ],
+    "subtitles": [
+        "Lieder / Ausw.",
+        "Lieder für Singstimme und Klavier"
+    ],
+    "terms": [
+        {
+            "gnd_link": "http://d-nb.info/gnd/4063783-9",
+            "labels": [
+                "Vokalmusik"
+            ]
+        },
+        {
+            "gnd_link": "http://d-nb.info/gnd/4313218-2",
+            "labels": [
+                "Solo",
+                "Musik"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Musikhandschrift"
+            ]
+        }
+    ],
+    "title": "Lieder"
+}

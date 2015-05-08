@@ -1,0 +1,53 @@
+{
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0040547"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3663237&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "4. Dezember 1787",
+        "04.12.1787"
+    ],
+    "europeana_enrichments": [],
+    "gnd_uri": null,
+    "id": "000216247",
+    "notes": [
+        "4. Dezember 1787",
+        "04.12.1787",
+        "Handschrift, 2 Bl.",
+        "36,5 x 22,7 cm",
+        "Mus.Hs.8958"
+    ],
+    "persons": [
+        {
+            "gnd_uri": "http://d-nb.info/gnd/118539841",
+            "lifetime": "1714-1787",
+            "name": "Gluck, Christoph Willibald",
+            "role": "Dokumentierte Person"
+        }
+    ],
+    "subtitles": [
+        "Testament",
+        "Beglaubigte Abschrift"
+    ],
+    "terms": [
+        {
+            "gnd_link": null,
+            "labels": [
+                "Lebensdokument"
+            ]
+        },
+        {
+            "gnd_link": null,
+            "labels": [
+                "Testament"
+            ]
+        }
+    ],
+    "title": null
+}
