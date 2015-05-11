@@ -3,25 +3,28 @@
 Script for enriching normalized data with contextually relevant data.
 
 Invocation:
-$ python enrich.py -a EUROPEANA_API_KEY
+$ python enrich.py data/normalized/*.json -o data/enriched -a EUROPEANA_API_KEY
 """
 
-import os
+import argparse
 import glob
-import requests
 import json
+import os
+import sys
 
-EUROPEANA_API_KEY = "XtMoz8MgC"
+import requests
+from bs4 import BeautifulSoup
+
+from common import write_json_file, progress, read_records
+
+# Europeana enrichment
+
 EUROPEANA_API_URI = "http://europeana.eu/api/v2/search.json?"
 EUROPEANA_MAX_ROWS = 20
-
-NORMALIZED_DATA_FILES = "data/normalized/*.json"
-ENRICHED_DATA_DIR = "data/enriched"
+EUROPEANA_API_KEY = None
 
 
 def find_europeana_items(query):
-    print("Searching Europeana items matching:", query, "...")
-
     payload = {'wskey': EUROPEANA_API_KEY,
                'profile': 'standard',
                'query': query,
@@ -29,9 +32,10 @@ def find_europeana_items(query):
                'rows': EUROPEANA_MAX_ROWS}
     r = requests.get(EUROPEANA_API_URI, params=payload)
     result = r.json()
-    items = result['items']
-    print("Found", len(items), "items.")
-    return items
+    if result.get('items') is None:
+        return None
+    else:
+        return result['items']
 
 
 def extract_europeana_data(europeana_items):
@@ -47,7 +51,6 @@ def extract_europeana_data(europeana_items):
 def filter_europeana_items(data, europeana_items):
     # keep only those items that have a matching author (by uri)
     person_uris = [person['gnd_uri'] for person in data['persons']]
-    print(person_uris)
     filtered_items = []
     for item in europeana_items:
         if item.get('dcCreator'):
@@ -59,18 +62,27 @@ def filter_europeana_items(data, europeana_items):
 
 def enrich_europeana(data):
     """Enriches a normalized record with Europeana data"""
+    print("Processing record", data['aleph_id'])
     title = data['title']
     for person in data['persons']:
         name = person['name']
-        query = name if name else "" + title if title else ""
+        query = name
+        if title:
+            query = query + " " + title
 
         # all items returned by Europeana
+        print("Searching Europeana for", query, end="...")
         europeana_items = find_europeana_items(query)
+        if(europeana_items is None):
+            print("0 results.")
+            continue
+        else:
+            print(len(europeana_items), "results.")
         # filter items
         europeana_items = filter_europeana_items(data, europeana_items)
         # extract enrichments
         enrichments = extract_europeana_data(europeana_items)
-
+        print("Enriching record with", len(enrichments), "related objects.")
         if data.get('related_europeana_items') is not None:
             data['related_europeana_items'].extend(enrichments)
         else:
@@ -78,29 +90,87 @@ def enrich_europeana(data):
     return data
 
 
-# I/O handling
-def normalized_files():
-    norm_files = glob.glob(NORMALIZED_DATA_FILES)
-    for norm_file in norm_files:
-        with open(norm_file, 'r') as in_file:
-            data = json.load(in_file)
-            yield (norm_file, data)
+# GND enrichment
+
+GND_URI_PATTERN = "{GND_URI}/about/rdf"
+
+def collect_sameas_uris(gnd_uri):
+    same_as_uris = []
+    url = GND_URI_PATTERN.replace("{GND_URI}", gnd_uri)
+    headers = {'Accept': 'application/rdf+xml'}
+    r = requests.get(url, allow_redirects=True)
+    if(r.status_code != 200):
+        print("Request error:", r.url)
+        return same_as_uris
+    #print(r.text)
+    soup = BeautifulSoup(r.text)
+    owl_sameas_tags = soup.find_all('owl:sameas')
+    for tag in owl_sameas_tags:
+        same_as_uris.append(tag['rdf:resource'])
+    return same_as_uris
 
 
-def write_json_file(dir, filename, data):
-    with open(dir + "/" + filename, "w") as out_file:
-            json.dump(data, out_file, sort_keys=True, indent=4,
-                      ensure_ascii=False)
+def enrich_gnd(data):
+    # resolve artwork GND uri
+    if(data.get('gnd_uri')):
+        gnd_uri = data['gnd_uri']
+        print("Resolving GND uri", gnd_uri, end="...")
+        same_as_uris = collect_sameas_uris(gnd_uri)
+        print("found", same_as_uris)
+        if data.get('sameas') is None:
+            data['sameas'] = same_as_uris
+        else:
+            data['sameas'].extend(same_as_uris)
+    # resolve perdon GND uris
+    for person in data['persons']:
+        if(person.get('gnd_uri') is not None):
+            print("Resolving GND uri", person['gnd_uri'], end="...")
+            same_as_uris = collect_sameas_uris(person['gnd_uri'])
+            print("found", same_as_uris)
+            if person.get('sameas') is None:
+                person['sameas'] = same_as_uris
+            else:
+                person['sameas'].extend(same_as_uris)
+    return data
+
+# Main enrichment routine
+
+def enrich(normalized_record):
+    normalized_record = json.loads(normalized_record)
+    # enrich by fetching additional data from GND
+    enriched_record = enrich_gnd(normalized_record)
+    # enrich by finding related resources in Europeana
+    enriched_record = enrich_europeana(enriched_record)
+    return enriched_record
 
 
-def main():
-    for norm_file, data in normalized_files():
-        print("Enriching", norm_file, "...")
-        enriched_data = enrich_europeana(data)
-        filename = os.path.basename(norm_file).replace(".json",
-                                                       "_enriched.json")
-        write_json_file(ENRICHED_DATA_DIR, filename, enriched_data)
+def enrich_records(inputfiles, outputdir):
+    print("Enriching", len(inputfiles), "records. Saving to", outputdir)
+    for index, (filename, record) in enumerate(read_records(inputfiles)):
+        progress((index+1)/len(inputfiles))
+        enriched_record = enrich(record)
+        out_file = os.path.basename(filename).replace(".json",
+                                                      "_enriched.json")
+        write_json_file(outputdir, out_file, enriched_record)
 
-if __name__ == "__main__":
-    main()
 
+# Command line parsing
+
+parser = argparse.ArgumentParser(
+                    description="Enriching normalized data with contextually relevant data.")
+parser.add_argument('inputfiles', type=str, nargs='+',
+                    help="Input files to be processed")
+parser.add_argument('-o', '--outputdir', type=str, nargs='?',
+                    default="data/enriched",
+                    help="Output directory")
+parser.add_argument('-e', '--europeana_api_key', type=str, nargs=1,
+                    help="Europeana API key")
+
+
+if len(sys.argv) < 2:
+    parser.print_help()
+    sys.exit(1)
+
+args = parser.parse_args()
+EUROPEANA_API_KEY = args.europeana_api_key
+enrich_records(args.inputfiles, args.outputdir)

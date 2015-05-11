@@ -5,13 +5,20 @@ A collection of commonly use data manipulation procedures.
 
 import json
 import os
-import sys
 
 
 def progress(progress=0):
-    progress = int(progress * 100)
-    sys.stdout.write("\rProgress: {0}%".format(progress))
-    sys.stdout.flush()
+    progress = round(progress * 100)
+    print("*** Progress: {0}% ***".format(progress))
+
+
+# I/O handling
+
+def read_records(inputfiles):
+    for filename in inputfiles:
+        with open(filename, 'r') as in_file:
+            data = in_file.read()
+            yield (filename, data)
 
 
 def ensure_directory(outputdir):
