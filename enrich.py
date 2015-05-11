@@ -31,6 +31,9 @@ def find_europeana_items(query):
                'start': 1,
                'rows': EUROPEANA_MAX_ROWS}
     r = requests.get(EUROPEANA_API_URI, params=payload)
+    if(r.status_code != 200):
+        print("FAILURE: Request", r.url, "failed")
+        return None
     result = r.json()
     if result.get('items') is None:
         return None
@@ -156,14 +159,18 @@ def enrich(normalized_record):
     return enriched_record
 
 
-def enrich_records(inputfiles, outputdir):
+def enrich_records(inputfiles, outputdir, force=False):
     print("Enriching", len(inputfiles), "records. Saving to", outputdir)
     for index, (filename, record) in enumerate(read_records(inputfiles)):
         progress((index+1)/len(inputfiles))
-        enriched_record = enrich(record)
         out_file = os.path.basename(filename).replace(".json",
                                                       "_enriched.json")
-        write_json_file(outputdir, out_file, enriched_record)
+        out_path = outputdir + "/" + out_file
+        if(os.path.exists(out_path) and not force):
+            print(out_file, "already enriched. Skipping...")
+        else:
+            enriched_record = enrich(record)
+            write_json_file(outputdir, out_file, enriched_record)
 
 
 # Command line parsing
@@ -177,6 +184,8 @@ parser.add_argument('-o', '--outputdir', type=str, nargs='?',
                     help="Output directory")
 parser.add_argument('-e', '--europeana_api_key', type=str, nargs=1,
                     help="Europeana API key")
+parser.add_argument('-f', '--force', type=bool, default=False,
+                    help="Overwrite already existing enrichment files")
 
 
 if len(sys.argv) < 2:
@@ -185,4 +194,4 @@ if len(sys.argv) < 2:
 
 args = parser.parse_args()
 EUROPEANA_API_KEY = args.europeana_api_key
-enrich_records(args.inputfiles, args.outputdir)
+enrich_records(args.inputfiles, args.outputdir, args.force)

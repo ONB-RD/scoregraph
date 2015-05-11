@@ -1,0 +1,94 @@
+{
+    "aleph_id": "AL00237790",
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0089093"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3470099&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "18.11.1739"
+    ],
+    "doc_id": "000220397",
+    "notes": [
+        "Paris",
+        "18.11.1739",
+        "Brief, Autograph, 1 Bl.",
+        "22,5 x 16,5 cm",
+        "Brief an einen Notar Bezin in Dijon [?]. - In bibliophilem grünen Halbledereinband von Dr. Friedr. G. Zeileis mit Aufschrift in Golddruck am Vorderdeckel: \"J. Ph. Rameau Eigh. Brief 1739\". - Angaben zur Provenienz am Nachsatz von Dr. Friedr. G. Zeileis",
+        "Mus.Hs.39554"
+    ],
+    "persons": [
+        {
+            "lifetime": "1683-1764",
+            "name": "Rameau, Jean-Philippe",
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118598090",
+                "http://dbpedia.org/resource/Jean-Philippe_Rameau",
+                "http://viaf.org/viaf/39563041",
+                "http://www.filmportal.de/person/14685B04DF6D414182C02A5099C481AF"
+            ]
+        },
+        {
+            "name": "Bezin, ... [?]",
+            "role": "Adressat"
+        }
+    ],
+    "related_europeana_items": [
+        {
+            "creator": [
+                "Rameau, Jean-Philippe (1683-1764). Auteur du texte",
+                "http://dbpedia.org/resource/Jean-Philippe_Rameau"
+            ],
+            "id": "/9200365/BibliographicResource_3000118472743",
+            "score": 26.327583,
+            "title": [
+                "[Un manuscrit autographe] (manuscrit autographe)"
+            ]
+        },
+        {
+            "creator": [
+                "Rameau, Jean-Philippe (1683-1764)",
+                "http://dbpedia.org/resource/Jean-Philippe_Rameau"
+            ],
+            "id": "/9200365/BibliographicResource_1000055071898",
+            "score": 21.062067,
+            "title": [
+                "Suite des Erreurs sur la musique dans l'Encyclopédie"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118598090"
+            ],
+            "id": "/9200386/BibliographicResource_3000059097760",
+            "score": 16.382072,
+            "title": [
+                "Concert g-Moll"
+            ]
+        },
+        {
+            "creator": [
+                "Rameau, Jean-Philippe (1683-1764). Auteur de lettres",
+                "http://dbpedia.org/resource/Jean-Philippe_Rameau"
+            ],
+            "id": "/9200365/BibliographicResource_3000118472744",
+            "score": 12.820753,
+            "title": [
+                "[Lettre de Jean Philippe Rameau au Marquis de Poléni, 29 juin 1754] (manuscrit autographe)"
+            ]
+        }
+    ],
+    "terms": [
+        {
+            "labels": [
+                "Korrespondenz"
+            ]
+        }
+    ]
+}

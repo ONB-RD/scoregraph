@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><present>
+<record>
+<record_header>
+<set_entry>000000001</set_entry>
+</record_header>
+<doc_number>000220397</doc_number>
+<metadata>
+<oai_marc>
+<fixfield id="LDR">-----nM2.01200024------h</fixfield>
+<fixfield id="FMT">MH</fixfield>
+<varfield i1="-" i2="1" id="001">
+<subfield label="a">AL00237790</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="002">
+<subfield label="a">20120627</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="003">
+<subfield label="a">20140819</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="037">
+<subfield label="a">fre</subfield>
+</varfield>
+<fixfield id="050">|aa|||||||||||</fixfield>
+<fixfield id="053">b|</fixfield>
+<varfield i1="-" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="070">
+<subfield label="a">ONB-HANNA</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="070">
+<subfield label="a">ONB</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="100">
+<subfield label="p">Rameau, Jean-Philippe</subfield>
+<subfield label="d">1683-1764</subfield>
+<subfield label="9">(DE-588)118598090</subfield>
+<subfield label="b">[Verfasser]</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="104">
+<subfield label="a">Bezin, ... [?]</subfield>
+<subfield label="b">[Adressat]</subfield>
+</varfield>
+<varfield i1="u" i2="1" id="410">
+<subfield label="a">Paris</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="425">
+<subfield label="a">18.11.1739</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="433">
+<subfield label="a">Brief, Autograph, 1 Bl.</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="435">
+<subfield label="a">22,5 x 16,5 cm</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="501">
+<subfield label="a">Brief an einen Notar Bezin in Dijon [?]. - In bibliophilem grünen Halbledereinband von Dr. Friedr. G. Zeileis mit Aufschrift in Golddruck am Vorderdeckel: "J. Ph. Rameau Eigh. Brief 1739". - Angaben zur Provenienz am Nachsatz von Dr. Friedr. G. Zeileis</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="544">
+<subfield label="a">Mus.Hs.39554</subfield>
+<subfield label="c">Mus</subfield>
+<subfield label="e">A/Rameau/1</subfield>
+</varfield>
+<varfield i1="e" i2="1" id="655">
+<subfield label="u">http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&amp;kz=1&amp;start=0089093</subfield>
+<subfield label="z">Zettel</subfield>
+</varfield>
+<varfield i1="a" i2="1" id="662">
+<subfield label="a">Tinte</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="663">
+<subfield label="a">Beiträge zur musikalischen Quellenkunde, S. 296</subfield>
+</varfield>
+<varfield i1="b" i2="1" id="664">
+<subfield label="a">Geschenk Wertitsch 1986</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="902">
+<subfield label="f">Korrespondenz</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="LOW">
+<subfield label="a">ZNAK</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSPA</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20120627</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">0934</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSPA</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20120627</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1010</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140819</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1338</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">ONBSOU</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140819</subfield>
+<subfield label="l">ACC05</subfield>
+<subfield label="h">1339</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="CAT">
+<subfield label="a">BATCH-UPD</subfield>
+<subfield label="b">20</subfield>
+<subfield label="c">20140819</subfield>
+<subfield label="l">ONB06</subfield>
+<subfield label="h">1339</subfield>
+</varfield>
+<varfield i1="-" i2="1" id="RAO">
+<subfield label="u">http://opac.obvsg.at/acc05-own/acc05-znak.html</subfield>
+<subfield label="z">Österr. Nationalbibliothek</subfield>
+</varfield>
+<varfield i1=" " i2=" " id="LOC">
+<subfield label="l">ONB06</subfield>
+<subfield label="L">Biblio.</subfield>
+<subfield label="m">MANUS</subfield>
+<subfield label="1">ZMUS</subfield>
+<subfield label="A">Mus</subfield>
+<subfield label="3">Mus.Hs.39554 A/Rameau/1</subfield>
+<subfield label="5">+Z146063807</subfield>
+<subfield label="8">20120627</subfield>
+<subfield label="f">02</subfield>
+<subfield label="F">benützbar</subfield>
+</varfield>
+<varfield i1="e" i2=" " id="655">
+<subfield label="u">http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3470099&amp;custom_att_2=simple_viewer</subfield>
+<subfield label="z">Digitalisat</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>19VQNPVMCQKMN7EA74DQ511IU1H5BRVXY8FVIP97JSFEATTK5H</session-id>
+</present>

@@ -1,0 +1,46 @@
+{
+    "aleph_id": "AL00237790",
+    "content": [
+        {
+            "note": "Zettel",
+            "uri": "http://katzoom.onb.ac.at/cgi-bin/katadmin/mus/mhsview.pl?katalog=5&kz=1&start=0089093"
+        },
+        {
+            "note": "Digitalisat",
+            "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3470099&custom_att_2=simple_viewer"
+        }
+    ],
+    "dates": [
+        "18.11.1739"
+    ],
+    "doc_id": "000220397",
+    "notes": [
+        "Paris",
+        "18.11.1739",
+        "Brief, Autograph, 1 Bl.",
+        "22,5 x 16,5 cm",
+        "Brief an einen Notar Bezin in Dijon [?]. - In bibliophilem grünen Halbledereinband von Dr. Friedr. G. Zeileis mit Aufschrift in Golddruck am Vorderdeckel: \"J. Ph. Rameau Eigh. Brief 1739\". - Angaben zur Provenienz am Nachsatz von Dr. Friedr. G. Zeileis",
+        "Mus.Hs.39554"
+    ],
+    "persons": [
+        {
+            "lifetime": "1683-1764",
+            "name": "Rameau, Jean-Philippe",
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118598090"
+            ]
+        },
+        {
+            "name": "Bezin, ... [?]",
+            "role": "Adressat"
+        }
+    ],
+    "terms": [
+        {
+            "labels": [
+                "Korrespondenz"
+            ]
+        }
+    ]
+}
