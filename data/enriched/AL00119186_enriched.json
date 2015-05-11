@@ -61,12 +61,8 @@
             ]
         },
         {
-            "lifetime": null,
             "name": "Stoll, Ludwig Joseph",
-            "role": "Text",
-            "sameas": [
-                null
-            ]
+            "role": "Text"
         },
         {
             "lifetime": "1791-1813",
@@ -117,15 +113,44 @@
             ]
         },
         {
-            "lifetime": null,
             "name": "Kalchberg, Johann Nepomuk <<von>>",
-            "role": "Text",
-            "sameas": [
-                null
+            "role": "Text"
+        }
+    ],
+    "related_europeana_items": [
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118610961"
+            ],
+            "id": "/9200386/BibliographicResource_3000100034134",
+            "score": 15.905244,
+            "title": [
+                "Schubert-Album 12 Lieder von Franz Schubert",
+                "Lieder / Ausw. Arr"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118610961"
+            ],
+            "id": "/9200386/BibliographicResource_3000113525182",
+            "score": 15.572531,
+            "title": [
+                "Hektors Abschied. Emma. Des Mädchens Klage",
+                "Lieder op. 58"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118610961"
+            ],
+            "id": "/9200386/BibliographicResource_3000059097832",
+            "score": 15.312118,
+            "title": [
+                "Lieder nach Gedichten von Rellstab und Heine Ständchen"
             ]
         }
     ],
-    "related_europeana_items": [],
     "sameas": [
         "http://d-nb.info/gnd/300140924"
     ],
@@ -154,9 +179,6 @@
         {
             "labels": [
                 "Musikhandschrift"
-            ],
-            "sameas": [
-                null
             ]
         }
     ],

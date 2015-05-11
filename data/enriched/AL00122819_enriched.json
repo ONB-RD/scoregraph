@@ -33,7 +33,67 @@
             ]
         }
     ],
-    "related_europeana_items": [],
+    "related_europeana_items": [
+        {
+            "creator": [
+                "Berg , Alban",
+                "http://dbpedia.org/resource/Alban_Berg"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0283372_1",
+            "score": 20.153173,
+            "title": [
+                "[2]: Pezzi sinfonici da Lulu : Ostinato, Lied der Lulu, Variationen ... ; Tre frammenti da Wozzeck : Marcia militare e berceuse, Tema con variazioni, Finale dell'opera / Alban Berg"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118509322"
+            ],
+            "id": "/9200386/BibliographicResource_3000059096437",
+            "score": 18.229574,
+            "title": [
+                "Lulu (Skizzen) - BSB Mus.ms. 17488"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/118509322"
+            ],
+            "id": "/9200386/BibliographicResource_3000095850403",
+            "score": 18.229574,
+            "title": [
+                "Lulu (Skizzen) - BSB Mus.ms. 17489"
+            ]
+        },
+        {
+            "creator": [
+                "Berg, Alban (1885-1935). Compositeur",
+                "Steingruber, Ilona (1912-1962). Soprano (Lulu)",
+                "Cerny, Maria. Mezzo-soprano (Comtesse Geschwitz)",
+                "Libert, Hans. Ténor (Alwa)",
+                "Matheis, Hilde. Alto (voix) (Un groom)",
+                "Kmentt, Waldemar (1929-2015). Ténor (le peintre, Le prince)",
+                "Riegler, Friedl. Alto (voix) (Un lycéen)",
+                "Wild, Hans (19..-....). Basse (voix) (Un banquier)",
+                "Wiener, Otto (1913-2000). Baryton (voix) (Dr Schön)",
+                "Logau, Claus. Voix parlée",
+                "Häfner, Herbert. Direction d'orchestre",
+                "Siegert, Emil (19..-.... ; artiste lyrique). Basse (voix) (Schigolch)",
+                "Bacher, Willy. Ténor (Valet de chambre)",
+                "Loida, Karl. Basse (voix) (Le dompteur, Rodrigo)",
+                "Wiener Symphoniker. Orchestre",
+                "Wiener Symphoniker. Orchestre",
+                "http://dbpedia.org/resource/Alban_Berg",
+                "http://dbpedia.org/resource/Waldemar_Kmentt",
+                "http://dbpedia.org/resource/Otto_Wiener"
+            ],
+            "id": "/9200365/BibliographicResource_3000126240873",
+            "score": 14.34318,
+            "title": [
+                "Lulu / Alban Berg, comp. ; Ilona Steingruber, S (Lulu) ; Maria Cerny, MS (Countess Geschwitz) ; Hans Libert, T (Alwa)... [et al.] ; Wiener Symphoniker ; Herbert Häfner, dir."
+            ]
+        }
+    ],
     "sameas": [
         "http://d-nb.info/gnd/300018657"
     ],
@@ -55,9 +115,6 @@
         {
             "labels": [
                 "Musikhandschrift"
-            ],
-            "sameas": [
-                null
             ]
         }
     ],

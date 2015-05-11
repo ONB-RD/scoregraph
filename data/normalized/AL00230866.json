@@ -31,9 +31,6 @@
             ]
         }
     ],
-    "sameas": [
-        null
-    ],
     "subtitles": [
         "Autographe Eintragungen von Bruckner aus dem Jahr 1872 in: Krippen-Kalender für das Jahr 1872. Zwanzigster Jahrgang. - Wien: Carl Gronemeyer (Prandel's Buchhandlung)."
     ],
@@ -41,11 +38,7 @@
         {
             "labels": [
                 "Taschenkalender"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

@@ -18,7 +18,6 @@
             "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3634568&custom_att_2=simple_viewer"
         }
     ],
-    "dates": [],
     "doc_id": "000448719",
     "notes": [
         "Gutachten, Aktenstücke, Briefe u. a in 16 Umschlägen",
@@ -40,9 +39,150 @@
             ]
         }
     ],
-    "related_europeana_items": [],
-    "sameas": [
-        null
+    "related_europeana_items": [
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251705_1",
+            "score": 12.793205,
+            "title": [
+                "Band 3.- 4. / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0269862_1",
+            "score": 12.793205,
+            "title": [
+                "[2]: Atto secondo / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0278994_1",
+            "score": 12.793205,
+            "title": [
+                "[3]: Act 2. / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0269860_1",
+            "score": 12.777132,
+            "title": [
+                "[1]: Preludio ; Atto primo / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251703_1",
+            "score": 12.468374,
+            "title": [
+                "[1]: Band 1. (Geistliche Lieder) / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0269865_1",
+            "score": 12.468374,
+            "title": [
+                "[3]: Atto terzo ; Atto quarto / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0269258_1",
+            "score": 12.437183,
+            "title": [
+                "Recital di Hugo Wolf / Elisabeth Schwarzkopf, soprano ; Wilhelm Furtwngler, pianoforte"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0278990_1",
+            "score": 12.437183,
+            "title": [
+                "\\2!: Act 1., conclusion ; *Act 3. / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0278988_1",
+            "score": 12.437183,
+            "title": [
+                "\\1!: Act 1., part 1 ; *Act 4. / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0240033_1",
+            "score": 12.400376,
+            "title": [
+                "Aus dem italienischen Liederbuch / Hugo Wolf ; ([Text] Paul Heyse) ; Dietrich Fischer-Diskau, Bariton ; Hertha Klust, Klavier"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0254124_1",
+            "score": 12.400376,
+            "title": [
+                "Aus dem Italienischen Liederbuch : (Paul Heyse) / Hugo Wolf ; Grard Souzay, Bariton ; Dalton Baldwin, Klavier"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0290477_1",
+            "score": 12.400376,
+            "title": [
+                "[2]: Lieder nach Gedichten von Johan Wolfgang von Goethe : Ganymed ; Grenzen der Menschheit ; Epiphanias ... / Hugo Wolf"
+            ]
+        },
+        {
+            "creator": [
+                "Wolf , Hugo",
+                "http://dbpedia.org/resource/Hugo_Wolf"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0290476_1",
+            "score": 12.380325,
+            "title": [
+                "[1]: Lieder nach Gedichten von Johann Wolfgang von Goethe : Harfenspieler 1. ; Harfenspieler 2. ; Harfenspieler 3. ... / Hugo Wolf"
+            ]
+        }
     ],
     "subtitles": [
         "Materialien zu Hugo Wolfs Krankheit"
@@ -51,11 +191,7 @@
         {
             "labels": [
                 "Lebensdokument"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

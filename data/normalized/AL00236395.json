@@ -49,24 +49,13 @@
             ]
         },
         {
-            "lifetime": null,
             "name": "Wolf, Katharina",
-            "role": "Adressatin",
-            "sameas": [
-                null
-            ]
+            "role": "Adressatin"
         },
         {
-            "lifetime": null,
             "name": "Wolf, Philipp",
-            "role": "Adressat",
-            "sameas": [
-                null
-            ]
+            "role": "Adressat"
         }
-    ],
-    "sameas": [
-        null
     ],
     "subtitles": [
         "6 Briefe an Katharina und Philipp Wolf"
@@ -75,11 +64,7 @@
         {
             "labels": [
                 "Korrespondenz"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

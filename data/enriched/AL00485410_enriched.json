@@ -80,7 +80,6 @@
             ]
         }
     ],
-    "related_europeana_items": [],
     "sameas": [
         "http://d-nb.info/gnd/4378329-6"
     ],
@@ -102,9 +101,6 @@
         {
             "labels": [
                 "Musikhandschrift"
-            ],
-            "sameas": [
-                null
             ]
         }
     ],

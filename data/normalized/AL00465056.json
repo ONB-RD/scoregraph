@@ -40,9 +40,6 @@
             ]
         }
     ],
-    "sameas": [
-        null
-    ],
     "subtitles": [
         "Sechs Lieder für eine Frauenstimme. Nr. 3, Die Spinnerin",
         "Für Gesang und Klavier"
@@ -68,11 +65,7 @@
         {
             "labels": [
                 "Musikhandschrift"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

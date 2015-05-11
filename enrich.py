@@ -49,20 +49,26 @@ def extract_europeana_data(europeana_items):
 
 
 def filter_europeana_items(data, europeana_items):
-    # keep only those items that have a matching author (by uri)
-    person_uris = [person['sameas'] for person in data['persons']]
+    # collect all known person URIs
+    known_person_uris = []
+    if 'persons' in data:
+        for person in data['persons']:
+            if 'sameas' in person:
+                for uri in person['sameas']:
+                    known_person_uris.append(uri)
+    # keep only those items that have at least one matching person URI
     filtered_items = []
     for item in europeana_items:
         if item.get('dcCreator'):
             for term in item['dcCreator']:
-                if term in person_uris:
+                if term in known_person_uris:
                     filtered_items.append(item)
     return filtered_items
 
 
 def enrich_europeana(data):
     """Enriches a normalized record with Europeana data"""
-    title = data['title']
+    title = data.get('title')
     for person in data['persons']:
         name = person['name']
         query = name
@@ -81,6 +87,9 @@ def enrich_europeana(data):
         europeana_items = filter_europeana_items(data, europeana_items)
         # extract enrichments
         enrichments = extract_europeana_data(europeana_items)
+        if(len(enrichments) == 0):
+            print("\tNo enrichments found.")
+            continue
         print("\tEnriching record with", len(enrichments), "related objects.")
         if data.get('related_europeana_items') is not None:
             data['related_europeana_items'].extend(enrichments)

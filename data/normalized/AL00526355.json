@@ -14,7 +14,6 @@
             "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=4918467&custom_att_2=simple_viewer"
         }
     ],
-    "dates": [],
     "doc_id": "000507156",
     "notes": [
         "Partitur, Handschrift (18. Jh.), 129 Bl.",
@@ -32,16 +31,9 @@
             ]
         },
         {
-            "lifetime": null,
             "name": "Krafft, Georg",
-            "role": "Komponist",
-            "sameas": [
-                null
-            ]
+            "role": "Komponist"
         }
-    ],
-    "sameas": [
-        null
     ],
     "subtitles": [
         "La monarchia risoluta",
@@ -60,11 +52,7 @@
         {
             "labels": [
                 "Musikhandschrift"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

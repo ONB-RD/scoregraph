@@ -38,20 +38,322 @@
             ]
         }
     ],
-    "related_europeana_items": [],
-    "sameas": [
-        null
+    "related_europeana_items": [
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251437_1",
+            "score": 14.318583,
+            "title": [
+                "1: 1. Satz ; 2. Satz / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251440_1",
+            "score": 14.318583,
+            "title": [
+                "2: 3. Satz ; 4. Satz / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255589_1",
+            "score": 14.282763,
+            "title": [
+                "[1]: Symphonie Nr. 1 / Anton Bruckner ; Berliner Philharmoniker"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255615_1",
+            "score": 14.282763,
+            "title": [
+                "[11]: Symphonie Nr. 9 d-moll / Anton Bruckner ; Berliner Philharmoniker"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0260365_1",
+            "score": 14.282763,
+            "title": [
+                "[1]: 1. Satz: Allegro moderato ; 2. Satz: Scherzo ... / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0272121_1",
+            "score": 14.282763,
+            "title": [
+                "1.: Symphonie Nr. 3 d-moll / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0272123_1",
+            "score": 14.282763,
+            "title": [
+                "2.: Symphonie Nr. 4 Es-dur / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0272127_1",
+            "score": 14.282763,
+            "title": [
+                "3.: Symphonie Nr. 5 B-dur / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0253658_1",
+            "score": 14.240493,
+            "title": [
+                "Sinfonie nr. 4 Es-dur : Romantische Sinfonie / Anton Bruckner ; Concertgebouw-Orchester, Amsterdam ; Bernard Haitink, Leitung"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255592_1",
+            "score": 14.240493,
+            "title": [
+                "[2]: Symphonie Nr. 2 c-moll / Anton Bruckner ; Sinfonie-Orchester des Bayerischen Rundfunks"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255607_1",
+            "score": 14.240493,
+            "title": [
+                "[7]: Symphonie Nr. 6 A-dur / Anton Bruckner ; Sinfonie-Orchester des Bayerischen Rundfunks"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255609_1",
+            "score": 14.240493,
+            "title": [
+                "[8]: Symphonie Nr. 7 E-dur : 1. Satz, 2. Satz / Anton Bruckner ; Berliner Philharmoniker"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255612_1",
+            "score": 14.240493,
+            "title": [
+                "[10]: Symphonie Nr. 8 c-moll : 3. Satz, 4. Satz / Anton Bruckner ; Berliner Philharmoniker"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0260366_1",
+            "score": 14.240493,
+            "title": [
+                "[2]: 3. Satz: Adagio ... ; 4. Satz: Finale ... / Anton Bruckner ; Hamburg : Deutsche Grammophon, 1985"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0268806_1",
+            "score": 14.240493,
+            "title": [
+                "Symphonie nr. 3 d-moll / Anton Bruckner ; Sinfonie-Orchester des Bayerischen Rundfunks ; Dirigent: Eugen Jochum"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0268805_1",
+            "score": 14.240493,
+            "title": [
+                "Symphonie Nr. 4 Es-dur : Romantische / Anton Bruckner ; Chicago Symphony Orchestra ; Dirigent: Daniel Barenboim"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0247650_1",
+            "score": 14.240493,
+            "title": [
+                "Sinfonie Nr. 4 Es-dur : Romantische / Anton Bruckner ; Klner Rundfunk-Sinfonie-Orchester ; Dirigent Gnter Wand"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0283514_1",
+            "score": 14.240493,
+            "title": [
+                "2: Adagio - (Feierlich langsam, doch nicht schleppend) : conclusione ; Finale, Feierlich, nicht schnell / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0272459_1",
+            "score": 14.240493,
+            "title": [
+                "[1]: 1. Satz, Bewegt, nicht zu schnell ; 2. Satz, Andante quasi Allegretto / Anton Bruckner"
+            ]
+        },
+        {
+            "creator": [
+                "Bruckner , Anton",
+                "http://dbpedia.org/resource/Anton_Bruckner"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251471_1",
+            "score": 14.217466,
+            "title": [
+                "Symphony no. 9 in D minor : original version / Anton Bruckner ; Pro Musica Symphony, Vienna ; Jascha Horenstein, conductor"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000045039477",
+            "score": 18.158182,
+            "title": [
+                "Missa in G a Canto, Alto, Tenore, Basso, due Violini, due Corni con Organo",
+                "Messen, op. 19"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000045039473",
+            "score": 18.158182,
+            "title": [
+                "Primiz-Messe für 4 Singstimmen, 2 Violinen, Viola, Flaute, 2 Oboen oder Clarinetten, 2 Fagott, 2 Hörner, 2 Trompeten, Pauken, Violonzello, Contrabass und Orgel",
+                "Messen; op. 101"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000117444160",
+            "score": 16.367712,
+            "title": [
+                "Pastoral-Messe für 4 Singstimmen, 2 Violinen, Flöte, 2 Clarinetten, Fagott, 2 Trompeten, Pauken, Contrabass u. Orgel",
+                "Messen op. 72"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000045039240",
+            "score": 16.367712,
+            "title": [
+                "Messe nebst Graduale u. Offertorium für Singstimmen, 2 Violinen, 2 Horn (ad lib.) u. Orgel",
+                "Messen op. 32"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000045206397",
+            "score": 16.367712,
+            "title": [
+                "6 moderne Aufzüge für 4 Trompeten und Pauken",
+                "Aufzüge op. 69"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000045039098",
+            "score": 16.08805,
+            "title": [
+                "Messe nebst Graduale u. Offertorium",
+                "Messen op. 35"
+            ]
+        },
+        {
+            "creator": [
+                "http://d-nb.info/gnd/119286661"
+            ],
+            "id": "/9200386/BibliographicResource_3000045039234",
+            "score": 16.08805,
+            "title": [
+                "Messe nebst Graduale u. Offertorium",
+                "Messen op. 31"
+            ]
+        },
+        {
+            "creator": [
+                "Schiedermayr, Johann Baptist",
+                "http://d-nb.info/gnd/119286661",
+                "Retzer, Constantin"
+            ],
+            "id": "/9200332/BibliographicResource_3000123622228",
+            "score": 12.563176,
+            "title": [
+                "Patriotische Cantate bey Anwesenheit Allerhöchst Ihrer Majestäten des Kaisers und der Kaiserinn im October 1833 : Aufgeführt von dem Musik-Vereine in Linz"
+            ]
+        }
     ],
-    "subtitles": [],
     "terms": [
         {
             "labels": [
                 "Korrespondenz"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

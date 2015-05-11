@@ -30,30 +30,27 @@ def persons(soup):
     persons = []
     tags = find_tags_in_id_range(soup, 100, 200)
     for tag in tags:
+        person = {}
         # name
         name = tag.find(label="p")
         if not name:
             name = tag.find(label="a")
         if name:
-            name = name.string
+            person['name'] = name.string
         # lifetime
         lifetime = tag.find(label="d")
         if lifetime:
-            lifetime = lifetime.string
-        # gnd_link
-        gnd_link = tag.find(label="9")
-        if gnd_link:
-            gnd_link = GND_PREFIX + "/" + gnd_link.string[8:]
+            person['lifetime'] = lifetime.string
         # role
         role = tag.find(label="b")
         if role:
             role = role.string.replace("[", "").replace("]", "")
-        person = {
-            'name': name,
-            'lifetime': lifetime,
-            'role': role,
-            'sameas': [gnd_link]
-        }
+            person['role'] = role
+        # gnd_link
+        gnd_link = tag.find(label="9")
+        if gnd_link:
+            gnd_link = GND_PREFIX + "/" + gnd_link.string[8:]
+            person['sameas'] = [gnd_link]
         persons.append(person)
     return persons
 
@@ -131,14 +128,17 @@ def terms(soup):
     terms = []
     tags = find_tags_in_id_range(soup, 900, 1000)
     for tag in tags:
+        term = {}
         labels = []
         for subfield in tag.find_all("subfield"):
             if subfield["label"] != "9":
                 labels.append(subfield.string)
+        if(len(labels) > 0):
+            term['labels'] = labels
         gnd_link = tag.find("subfield", label="9")
         if gnd_link:
             gnd_link = GND_PREFIX + "/" + gnd_link.string[8:]
-        term = {'labels': labels, 'sameas': [gnd_link]}
+            term['sameas'] = [gnd_link]
         terms.append(term)
     return terms
 
@@ -155,18 +155,30 @@ def aleph_id(soup):
 
 def normalize(raw_record):
     soup = BeautifulSoup(raw_record)
-    normalized_record = {
-        'aleph_id': aleph_id(soup),
-        'doc_id': doc_id(soup),
-        'title': title(soup),
-        'subtitles': subtitles(soup),
-        'persons': persons(soup),
-        'content': content(soup),
-        'dates': dates(soup),
-        'sameas': [gnd_link(soup)],
-        'notes': notes(soup),
-        'terms': terms(soup)
-    }
+    normalized_record = {}
+
+    # mandatory fields
+    normalized_record['aleph_id'] = aleph_id(soup)
+    normalized_record['doc_id'] = doc_id(soup)
+
+    # optional fields
+    if title(soup):
+        normalized_record['title'] = title(soup)
+    if subtitles(soup):
+        normalized_record['subtitles'] = subtitles(soup)
+    if persons(soup):
+        normalized_record['persons'] = persons(soup)
+    if content(soup):
+        normalized_record['content'] = content(soup)
+    if dates(soup):
+        normalized_record['dates'] = dates(soup)
+    if notes(soup):
+        normalized_record['notes'] = notes(soup)
+    if terms(soup):
+        normalized_record['terms'] = terms(soup)
+    if gnd_link(soup):
+        normalized_record['sameas'] = [gnd_link(soup)]
+
     return normalized_record
 
 

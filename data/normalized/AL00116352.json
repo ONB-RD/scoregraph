@@ -34,19 +34,11 @@
             ]
         }
     ],
-    "sameas": [
-        null
-    ],
-    "subtitles": [],
     "terms": [
         {
             "labels": [
                 "Korrespondenz"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

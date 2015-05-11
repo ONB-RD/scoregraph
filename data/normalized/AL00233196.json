@@ -32,9 +32,6 @@
             ]
         }
     ],
-    "sameas": [
-        null
-    ],
     "subtitles": [
         "Testament",
         "Beglaubigte Abschrift"
@@ -43,19 +40,12 @@
         {
             "labels": [
                 "Lebensdokument"
-            ],
-            "sameas": [
-                null
             ]
         },
         {
             "labels": [
                 "Testament"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

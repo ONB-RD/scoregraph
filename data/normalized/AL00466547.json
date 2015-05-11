@@ -18,7 +18,6 @@
             "uri": "http://archiv.onb.ac.at:1801/webclient/DeliveryManager?pid=3634568&custom_att_2=simple_viewer"
         }
     ],
-    "dates": [],
     "doc_id": "000448719",
     "notes": [
         "Gutachten, Aktenstücke, Briefe u. a in 16 Umschlägen",
@@ -38,9 +37,6 @@
             ]
         }
     ],
-    "sameas": [
-        null
-    ],
     "subtitles": [
         "Materialien zu Hugo Wolfs Krankheit"
     ],
@@ -48,11 +44,7 @@
         {
             "labels": [
                 "Lebensdokument"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }

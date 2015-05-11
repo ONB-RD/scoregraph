@@ -35,9 +35,227 @@
             ]
         }
     ],
-    "related_europeana_items": [],
-    "sameas": [
-        null
+    "related_europeana_items": [
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0248139_1",
+            "score": 22.12986,
+            "title": [
+                "[3]: Atto terzo  / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0242339_1",
+            "score": 22.12986,
+            "title": [
+                "[3]: Atto 2. / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0244940_1",
+            "score": 22.12986,
+            "title": [
+                "[2]: Atto terzo / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255522_1",
+            "score": 22.074497,
+            "title": [
+                "1: Atto primo ; Atto secondo, 1. parte / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255523_1",
+            "score": 22.074497,
+            "title": [
+                "2: Atto secondo, conclusione ; Atto terzo / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255533_1",
+            "score": 22.074497,
+            "title": [
+                "1: Atto primo ; Atto secondo, 1. parte / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0244939_1",
+            "score": 22.074497,
+            "title": [
+                "[1]: Overtura ; Atto primo ; Atto secondo / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0242334_1",
+            "score": 22.009169,
+            "title": [
+                "[2]: Atto 1. : Conclusione ; Atto 3. : Parte prima / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0248135_1",
+            "score": 22.009169,
+            "title": [
+                "[1]: Ouverture ; Atto primo ; Atto secondo : prima parte / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0248138_1",
+            "score": 22.009169,
+            "title": [
+                "[2]: Atto secondo : 2. parte ; Atto secondo : conclusione  / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0242331_1",
+            "score": 22.009169,
+            "title": [
+                "[1]: Atto 1. : Parte prima ; Atto 3. : Conclusione / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0255534_1",
+            "score": 22.009169,
+            "title": [
+                "2: Atto secondo, conclusione ; Atto terzo ; Atto quarto / Christoph Willibald Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0239856_1",
+            "score": 21.611507,
+            "title": [
+                "[1]: Overture ; Act 1 / Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0239861_1",
+            "score": 21.593803,
+            "title": [
+                "[3]: Act 2 (Conclusion) ; Act 3 / Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0281769_1",
+            "score": 21.593803,
+            "title": [
+                "[2]: Act 2. ; Act 3. / Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0281767_1",
+            "score": 21.593803,
+            "title": [
+                "[1]: Act 1. ; Act 4. / Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0239859_1",
+            "score": 21.572191,
+            "title": [
+                "[2]: Act 2 (Part 1) ; Act 2 (Part 2) / Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251749_1",
+            "score": 21.572191,
+            "title": [
+                "[1]: Ouvertre ; 1. Aufzug : 1. Teil ; 3. Aufzug / Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_spartito_BVE0347550_1",
+            "score": 21.572191,
+            "title": [
+                "Alceste : tragedie : opera en trois actes / par Gluck"
+            ]
+        },
+        {
+            "creator": [
+                "Gluck , Christoph Willibald",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck"
+            ],
+            "id": "/2048024/Athena_Plus_ProvidedCHO_Biblioteca_nazionale_centrale_di_Roma_oai_bncrm_librari_beniculturali_it_disco_BVE0251753_1",
+            "score": 21.54669,
+            "title": [
+                "[2]: 1. Aufzug : 2. Teil ; 2. Aufzug : 1. Teil, 2. Teil / Gluck"
+            ]
+        }
     ],
     "subtitles": [
         "Testament",
@@ -47,19 +265,12 @@
         {
             "labels": [
                 "Lebensdokument"
-            ],
-            "sameas": [
-                null
             ]
         },
         {
             "labels": [
                 "Testament"
-            ],
-            "sameas": [
-                null
             ]
         }
-    ],
-    "title": null
+    ]
 }
