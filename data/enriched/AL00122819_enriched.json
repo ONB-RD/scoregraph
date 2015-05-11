@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00122819",
     "content": [
         {
             "note": "Digitalisat",
@@ -9,9 +10,7 @@
         "27.10.35",
         "27.10.1935"
     ],
-    "europeana_enrichments": [],
-    "gnd_uri": "http://d-nb.info/gnd/300018657",
-    "id": "000115804",
+    "doc_id": "000115804",
     "notes": [
         "27.10.35",
         "27.10.1935",
@@ -23,11 +22,20 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118509322",
             "lifetime": "1885-1935",
             "name": "Berg, Alban",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118509322",
+                "http://dbpedia.org/resource/Alban_Berg",
+                "http://viaf.org/viaf/37101072",
+                "http://www.filmportal.de/person/3810408D4AAE4B1AA58CBB7FD918DE8F"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        "http://d-nb.info/gnd/300018657"
     ],
     "subtitles": [
         "Lulu / 3. Akt. Fragment",
@@ -37,15 +45,19 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4040874-7",
             "labels": [
                 "Musiktheater"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4040874-7"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

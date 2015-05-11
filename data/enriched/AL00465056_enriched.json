@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00465056",
     "content": [
         {
             "note": "Zettel",
@@ -12,9 +13,7 @@
     "dates": [
         "05.04.1878"
     ],
-    "europeana_enrichments": [],
-    "gnd_uri": null,
-    "id": "000447252",
+    "doc_id": "000447252",
     "notes": [
         "Wien",
         "05.04.1878",
@@ -25,17 +24,29 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118634712",
+                "http://dbpedia.org/resource/Hugo_Wolf",
+                "http://viaf.org/viaf/120704169"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118603817",
             "lifetime": "1788-1866",
             "name": "Rückert, Friedrich",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/118603817",
+                "http://dbpedia.org/resource/Friedrich_R%C3%BCckert",
+                "http://viaf.org/viaf/42819"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Sechs Lieder für eine Frauenstimme. Nr. 3, Die Spinnerin",
@@ -43,22 +54,28 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4063783-9",
             "labels": [
                 "Vokalmusik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4063783-9"
             ]
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/4313218-2",
             "labels": [
                 "Solo",
                 "Musik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4313218-2"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

@@ -9,7 +9,7 @@ import os
 
 def progress(progress=0):
     progress = round(progress * 100)
-    print("*** Progress: {0}% ***".format(progress))
+    print("\n*** Progress: {0}% ***".format(progress))
 
 
 # I/O handling

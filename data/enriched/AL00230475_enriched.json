@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00230475",
     "content": [
         {
             "note": "Zettel",
@@ -12,9 +13,7 @@
     "dates": [
         "1879"
     ],
-    "europeana_enrichments": [],
-    "gnd_uri": "http://d-nb.info/gnd/300029888",
-    "id": "000213889",
+    "doc_id": "000213889",
     "notes": [
         "Wien",
         "1879",
@@ -24,11 +23,19 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118515799",
+                "http://dbpedia.org/resource/Anton_Bruckner",
+                "http://viaf.org/viaf/61731160",
+                "http://www.filmportal.de/person/259E036EF19F47BA87273A99AF096D99"
+            ]
         }
+    ],
+    "sameas": [
+        "http://d-nb.info/gnd/300029888"
     ],
     "subtitles": [
         "Quintette, Vl 1 2 Va 1 2 Vc, WAB 112",
@@ -37,15 +44,19 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4136998-1",
             "labels": [
                 "Kammermusik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4136998-1"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00116352",
     "content": [
         {
             "note": "Digitalisat",
@@ -8,99 +9,7 @@
     "dates": [
         "18.10.1869"
     ],
-    "europeana_enrichments": [
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000045039477",
-            "score": 18.158182,
-            "title": [
-                "Missa in G a Canto, Alto, Tenore, Basso, due Violini, due Corni con Organo",
-                "Messen, op. 19"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000045039473",
-            "score": 18.158182,
-            "title": [
-                "Primiz-Messe für 4 Singstimmen, 2 Violinen, Viola, Flaute, 2 Oboen oder Clarinetten, 2 Fagott, 2 Hörner, 2 Trompeten, Pauken, Violonzello, Contrabass und Orgel",
-                "Messen; op. 101"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000117444160",
-            "score": 16.367712,
-            "title": [
-                "Pastoral-Messe für 4 Singstimmen, 2 Violinen, Flöte, 2 Clarinetten, Fagott, 2 Trompeten, Pauken, Contrabass u. Orgel",
-                "Messen op. 72"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000045039240",
-            "score": 16.367712,
-            "title": [
-                "Messe nebst Graduale u. Offertorium für Singstimmen, 2 Violinen, 2 Horn (ad lib.) u. Orgel",
-                "Messen op. 32"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000045206397",
-            "score": 16.367712,
-            "title": [
-                "6 moderne Aufzüge für 4 Trompeten und Pauken",
-                "Aufzüge op. 69"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000045039098",
-            "score": 16.08805,
-            "title": [
-                "Messe nebst Graduale u. Offertorium",
-                "Messen op. 35"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/119286661"
-            ],
-            "id": "/9200386/BibliographicResource_3000045039234",
-            "score": 16.08805,
-            "title": [
-                "Messe nebst Graduale u. Offertorium",
-                "Messen op. 31"
-            ]
-        },
-        {
-            "creator": [
-                "Schiedermayr, Johann Baptist",
-                "http://d-nb.info/gnd/119286661",
-                "Retzer, Constantin"
-            ],
-            "id": "/9200332/BibliographicResource_3000123622228",
-            "score": 12.563176,
-            "title": [
-                "Patriotische Cantate bey Anwesenheit Allerhöchst Ihrer Majestäten des Kaisers und der Kaiserinn im October 1833 : Aufgeführt von dem Musik-Vereine in Linz"
-            ]
-        }
-    ],
-    "gnd_uri": null,
-    "id": "000110103",
+    "doc_id": "000110103",
     "notes": [
         "Wien",
         "18.10.1869",
@@ -109,24 +18,38 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
-            "role": "Verfasser"
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118515799",
+                "http://dbpedia.org/resource/Anton_Bruckner",
+                "http://viaf.org/viaf/61731160",
+                "http://www.filmportal.de/person/259E036EF19F47BA87273A99AF096D99"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/119286661",
             "lifetime": "1779-1840",
             "name": "Schiedermayr, Johann Baptist",
-            "role": "Adressat"
+            "role": "Adressat",
+            "sameas": [
+                "http://d-nb.info/gnd/119286661",
+                "http://viaf.org/viaf/47568100"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        null
     ],
     "subtitles": [],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Korrespondenz"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

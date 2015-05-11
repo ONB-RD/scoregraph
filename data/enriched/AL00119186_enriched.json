@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00119186",
     "content": [
         {
             "note": "Link zu Scan D 302 auf www.schubert-online.at",
@@ -37,143 +38,7 @@
         "15. Oct. 1815",
         "15.10.1815"
     ],
-    "europeana_enrichments": [
-        {
-            "creator": [
-                "http://d-nb.info/gnd/118610961"
-            ],
-            "id": "/9200386/BibliographicResource_3000059071184",
-            "score": 11.157888,
-            "title": [
-                "Frühlingsglaube von Uhland - BSB Mus.ms. 6578",
-                "Cim. 443"
-            ]
-        },
-        {
-            "creator": [
-                "Kumpf, Johann Gottfried",
-                "http://d-nb.info/gnd/132145901"
-            ],
-            "id": "/9200332/BibliographicResource_3000123575115",
-            "score": 12.0550785,
-            "title": [
-                "Bey Gelegenheit der Fahnenweihe der Triester-Landwehre am 26ten März 1809 : Von Dr. Kumpf"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000044893657",
-            "score": 16.669088,
-            "title": [
-                "Dramatische Dichtungen"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000044893466",
-            "score": 16.669088,
-            "title": [
-                "Dramatische Dichtungen"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000044893605",
-            "score": 16.493908,
-            "title": [
-                "Skizzen einer Reise von Wien über Prag, Teplitz, Dresden, Berlin, Leipzig, ... München, Salzburg, Linz und von dort nach Wien zurück in Briefen an einen Freund"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045449465",
-            "score": 16.493908,
-            "title": [
-                "Ein deutscher Schullehrer Lebensbild mit Gesang und Tanz in drei Akten",
-                "Ein deutscher Schullehrer"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045094243",
-            "score": 15.617332,
-            "title": [
-                "Künstlerdramen - 2"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045094587",
-            "score": 15.617332,
-            "title": [
-                "Künstlerdramen - 1"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045246881",
-            "score": 15.518957,
-            "title": [
-                "Gesammelte dramatische Werke - 5"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045247250",
-            "score": 15.518957,
-            "title": [
-                "Gesammelte dramatische Werke - 1"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045247342",
-            "score": 15.518957,
-            "title": [
-                "Gesammelte dramatische Werke - 6: Hans Sachs. Die verschleierte Dame. Die Gönnerschaften. Das Bild der Danae"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/116055448"
-            ],
-            "id": "/9200386/BibliographicResource_3000045247400",
-            "score": 15.518957,
-            "title": [
-                "Gesammelte dramatische Werke - 1: Liebe und Liebelei. Der Egoist"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/118842188"
-            ],
-            "id": "/9200386/BibliographicResource_3000044896146",
-            "score": 14.460993,
-            "title": [
-                "Versuch eines Etymologikons der slovenischen Mundart in Inner-Oesterreich"
-            ]
-        }
-    ],
-    "gnd_uri": "http://d-nb.info/gnd/300140924",
-    "id": "000112576",
+    "doc_id": "000112576",
     "notes": [
         "15. Oct. 1815",
         "15.10.1815",
@@ -185,53 +50,84 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118610961",
             "lifetime": "1797-1828",
             "name": "Schubert, Franz",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118610961",
+                "http://dbpedia.org/resource/Franz_Schubert",
+                "http://viaf.org/viaf/29719275",
+                "http://www.filmportal.de/person/B3861C6C6C5D4B559554B2B6E1C60224"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Stoll, Ludwig Joseph",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                null
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118713507",
             "lifetime": "1791-1813",
             "name": "Körner, Theodor",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/118713507",
+                "http://dbpedia.org/resource/Theodor_K%C3%B6rner_(author)",
+                "http://viaf.org/viaf/51723180",
+                "http://www.filmportal.de/person/F67EA7FCCDFA42AC850F4E308DC52393"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/132145901",
             "lifetime": "1781-1862",
             "name": "Kumpf, Johann Gottfried",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/132145901",
+                "http://viaf.org/viaf/38070731"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/116055448",
             "lifetime": "1794-1859",
             "name": "Deinhardstein, Johann Ludwig",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/116055448",
+                "http://viaf.org/viaf/10588011"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118842188",
             "lifetime": "1784-1844",
             "name": "Jarnik, Urban",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/118842188",
+                "http://dbpedia.org/resource/Urban_Jarnik",
+                "http://viaf.org/viaf/73906997"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/136659837",
             "lifetime": "1781-1816",
             "name": "Fellinger, Johann Georg",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/136659837",
+                "http://viaf.org/viaf/61210015"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Kalchberg, Johann Nepomuk <<von>>",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                null
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        "http://d-nb.info/gnd/300140924"
     ],
     "subtitles": [
         "Lieder / Ausw.",
@@ -239,22 +135,28 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4063783-9",
             "labels": [
                 "Vokalmusik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4063783-9"
             ]
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/4313218-2",
             "labels": [
                 "Solo",
                 "Musik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4313218-2"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00466547",
     "content": [
         {
             "note": "Zettel",
@@ -18,9 +19,7 @@
         }
     ],
     "dates": [],
-    "europeana_enrichments": [],
-    "gnd_uri": null,
-    "id": "000448719",
+    "doc_id": "000448719",
     "notes": [
         "Gutachten, Aktenstücke, Briefe u. a in 16 Umschlägen",
         "Nachlass Hugo Wolf",
@@ -31,20 +30,30 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
-            "role": "Dokumentierte Person"
+            "role": "Dokumentierte Person",
+            "sameas": [
+                "http://d-nb.info/gnd/118634712",
+                "http://dbpedia.org/resource/Hugo_Wolf",
+                "http://viaf.org/viaf/120704169"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Materialien zu Hugo Wolfs Krankheit"
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Lebensdokument"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

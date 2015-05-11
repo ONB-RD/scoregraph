@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00230866",
     "content": [
         {
             "note": "Zettel",
@@ -12,9 +13,7 @@
     "dates": [
         "1872"
     ],
-    "europeana_enrichments": [],
-    "gnd_uri": null,
-    "id": "000214250",
+    "doc_id": "000214250",
     "notes": [
         "1872",
         "222 Bl., Eintragungen Autograph Bruckner am Titelbl. u. Bl. 39r",
@@ -24,20 +23,31 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
-            "role": "Verfasser"
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118515799",
+                "http://dbpedia.org/resource/Anton_Bruckner",
+                "http://viaf.org/viaf/61731160",
+                "http://www.filmportal.de/person/259E036EF19F47BA87273A99AF096D99"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Autographe Eintragungen von Bruckner aus dem Jahr 1872 in: Krippen-Kalender für das Jahr 1872. Zwanzigster Jahrgang. - Wien: Carl Gronemeyer (Prandel's Buchhandlung)."
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Taschenkalender"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

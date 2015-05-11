@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00236395",
     "content": [
         {
             "note": "Digitalisat",
@@ -28,9 +29,7 @@
     "dates": [
         "22.12.1877-10.03.1887"
     ],
-    "europeana_enrichments": [],
-    "gnd_uri": null,
-    "id": "000219215",
+    "doc_id": "000219215",
     "notes": [
         "Wien",
         "22.12.1877-10.03.1887",
@@ -42,32 +41,46 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
-            "role": "Verfasser"
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118634712",
+                "http://dbpedia.org/resource/Hugo_Wolf",
+                "http://viaf.org/viaf/120704169"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Wolf, Katharina",
-            "role": "Adressatin"
+            "role": "Adressatin",
+            "sameas": [
+                null
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Wolf, Philipp",
-            "role": "Adressat"
+            "role": "Adressat",
+            "sameas": [
+                null
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "6 Briefe an Katharina und Philipp Wolf"
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Korrespondenz"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

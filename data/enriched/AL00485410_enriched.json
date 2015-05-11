@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00485410",
     "content": [
         {
             "note": "Zettel",
@@ -28,87 +29,7 @@
     "dates": [
         "1668"
     ],
-    "europeana_enrichments": [
-        {
-            "creator": [
-                "http://d-nb.info/gnd/10431821X"
-            ],
-            "id": "/9200386/BibliographicResource_3000095845779",
-            "score": 16.571093,
-            "title": [
-                "ARIE PER IL BALLETTO à CAVALLO, Nella festa rappresentata PER LE GLORIOSISSIME NOZZE DELLE SS. CC. MM.ta DI LEOPOLDO PRIMO, IMPERATORE AUGUSTISSIMO, ET DI MARGHERITA INFANTA DI SPAGNA. Composte DALL GIOANNE ENRICO SCHMELZER, Musico di Camera di S. M. C",
-                "Arie per il balletto à cavallo"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/124646522"
-            ],
-            "id": "/9200386/BibliographicResource_3000044834745",
-            "score": 11.907969,
-            "title": [
-                "La Tirannide Dell'Interesse Tragedia Politicomorale Di Francesco Sbarra Rappresentata in Musica in Lucca nel Teatro de'Borthi",
-                "La Corte",
-                "La Tirannide Dell'Interesse, E La Corte .."
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/124646522"
-            ],
-            "id": "/9200386/BibliographicResource_3000044835014",
-            "score": 11.907969,
-            "title": [
-                "La Tirannide Dell'Interesse Tragedia Politicomorale Di Francesco Sbarra Rappresentata in Musica in Lucca nel Teatro de'Borthi",
-                "La Corte",
-                "La Tirannide Dell'Interesse, E La Corte .."
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/124646522"
-            ],
-            "id": "/9200386/BibliographicResource_3000044834731",
-            "score": 11.907969,
-            "title": [
-                "La Tirannide Dell'Interesse Tragedia Politicomorale Di Francesco Sbarra Rappresentata in Musica in Lucca nel Teatro de'Borthi",
-                "La Corte",
-                "La Tirannide Dell'Interesse, E La Corte .."
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/124646522"
-            ],
-            "id": "/9200386/BibliographicResource_3000044834518",
-            "score": 10.631781,
-            "title": [
-                "Opere"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/124646522"
-            ],
-            "id": "/9200386/BibliographicResource_3000044835208",
-            "score": 10.631781,
-            "title": [
-                "La moda"
-            ]
-        },
-        {
-            "creator": [
-                "http://d-nb.info/gnd/124646522"
-            ],
-            "id": "/9200386/BibliographicResource_3000044834848",
-            "score": 10.631781,
-            "title": [
-                "Opere"
-            ]
-        }
-    ],
-    "gnd_uri": "http://d-nb.info/gnd/4378329-6",
-    "id": "000466199",
+    "doc_id": "000466199",
     "notes": [
         "1668",
         "Partitur, Handschrift (17. Jh.), Abschrift (von Riotti); 53, 97, 76, 70 Bl.",
@@ -120,29 +41,48 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/119253933",
             "lifetime": "1623-1669",
             "name": "Cesti, Antonio",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/119253933",
+                "http://dbpedia.org/resource/Antonio_Cesti",
+                "http://viaf.org/viaf/34642826"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118571869",
             "lifetime": "1640-1705",
             "name": "Leopold",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118571869",
+                "http://dbpedia.org/resource/Leopold_I,_Holy_Roman_Emperor",
+                "http://viaf.org/viaf/54156429"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/10431821X",
             "lifetime": "1623-1680",
             "name": "Schmelzer, Johann Heinrich",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/10431821X",
+                "http://dbpedia.org/resource/Johann_Heinrich_Schmelzer",
+                "http://viaf.org/viaf/49409323"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/124646522",
             "lifetime": "1611-1668",
             "name": "Sbarra, Francesco",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/124646522",
+                "http://viaf.org/viaf/88081296"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        "http://d-nb.info/gnd/4378329-6"
     ],
     "subtitles": [
         "<<Il>> pomo d'oro",
@@ -152,15 +92,19 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4040874-7",
             "labels": [
                 "Musiktheater"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4040874-7"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

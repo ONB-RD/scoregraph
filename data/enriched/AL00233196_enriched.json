@@ -1,4 +1,5 @@
 {
+    "aleph_id": "AL00233196",
     "content": [
         {
             "note": "Zettel",
@@ -13,9 +14,7 @@
         "4. Dezember 1787",
         "04.12.1787"
     ],
-    "europeana_enrichments": [],
-    "gnd_uri": null,
-    "id": "000216247",
+    "doc_id": "000216247",
     "notes": [
         "4. Dezember 1787",
         "04.12.1787",
@@ -25,11 +24,20 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118539841",
             "lifetime": "1714-1787",
             "name": "Gluck, Christoph Willibald",
-            "role": "Dokumentierte Person"
+            "role": "Dokumentierte Person",
+            "sameas": [
+                "http://d-nb.info/gnd/118539841",
+                "http://dbpedia.org/resource/Christoph_Willibald_Gluck",
+                "http://viaf.org/viaf/37101876",
+                "http://www.filmportal.de/person/9A54AF36DDD24C40A0553F34BF8131C4"
+            ]
         }
+    ],
+    "related_europeana_items": [],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Testament",
@@ -37,15 +45,19 @@
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Lebensdokument"
+            ],
+            "sameas": [
+                null
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Testament"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

@@ -50,7 +50,7 @@ def extract_europeana_data(europeana_items):
 
 def filter_europeana_items(data, europeana_items):
     # keep only those items that have a matching author (by uri)
-    person_uris = [person['gnd_uri'] for person in data['persons']]
+    person_uris = [person['sameas'] for person in data['persons']]
     filtered_items = []
     for item in europeana_items:
         if item.get('dcCreator'):
@@ -62,7 +62,6 @@ def filter_europeana_items(data, europeana_items):
 
 def enrich_europeana(data):
     """Enriches a normalized record with Europeana data"""
-    print("Processing record", data['aleph_id'])
     title = data['title']
     for person in data['persons']:
         name = person['name']
@@ -71,7 +70,7 @@ def enrich_europeana(data):
             query = query + " " + title
 
         # all items returned by Europeana
-        print("Searching Europeana for", query, end="...")
+        print("\tSearching Europeana for '", query, end="' ...")
         europeana_items = find_europeana_items(query)
         if(europeana_items is None):
             print("0 results.")
@@ -82,7 +81,7 @@ def enrich_europeana(data):
         europeana_items = filter_europeana_items(data, europeana_items)
         # extract enrichments
         enrichments = extract_europeana_data(europeana_items)
-        print("Enriching record with", len(enrichments), "related objects.")
+        print("\tEnriching record with", len(enrichments), "related objects.")
         if data.get('related_europeana_items') is not None:
             data['related_europeana_items'].extend(enrichments)
         else:
@@ -111,35 +110,39 @@ def collect_sameas_uris(gnd_uri):
 
 
 def enrich_gnd(data):
-    # resolve artwork GND uri
-    if(data.get('gnd_uri')):
-        gnd_uri = data['gnd_uri']
-        print("Resolving GND uri", gnd_uri, end="...")
-        same_as_uris = collect_sameas_uris(gnd_uri)
-        print("found", same_as_uris)
-        if data.get('sameas') is None:
-            data['sameas'] = same_as_uris
-        else:
-            data['sameas'].extend(same_as_uris)
-    # resolve perdon GND uris
-    for person in data['persons']:
-        if(person.get('gnd_uri') is not None):
-            print("Resolving GND uri", person['gnd_uri'], end="...")
-            same_as_uris = collect_sameas_uris(person['gnd_uri'])
-            print("found", same_as_uris)
-            if person.get('sameas') is None:
-                person['sameas'] = same_as_uris
+    # traverse all elements, find GND links, pull sameas uris
+    for key in data.keys():
+        value = data.get(key)
+        if(isinstance(value, dict)):
+            data[key] = enrich_gnd(value)
+        if(isinstance(value, list)):
+            if(key == 'sameas'):
+                same_as_uris = []
+                for uri in value:
+                    if uri is None:
+                        continue
+                    print("\tResolving GND uri", uri, end="...")
+                    collected_uris = collect_sameas_uris(uri)
+                    print("found", len(collected_uris), "links.")
+                    same_as_uris.extend(collected_uris)
+                data[key].extend(same_as_uris)
             else:
-                person['sameas'].extend(same_as_uris)
+                for val in value:
+                    if(isinstance(val, dict)):
+                        val = enrich_gnd(val)
     return data
+
 
 # Main enrichment routine
 
 def enrich(normalized_record):
     normalized_record = json.loads(normalized_record)
+    print("\nProcessing record", normalized_record['aleph_id'], "...")
     # enrich by fetching additional data from GND
+    print("Start GND enrichment", "...")
     enriched_record = enrich_gnd(normalized_record)
     # enrich by finding related resources in Europeana
+    print("Start Europeana enrichment", "...")
     enriched_record = enrich_europeana(enriched_record)
     return enriched_record
 
