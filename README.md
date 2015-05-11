@@ -44,8 +44,8 @@ Run data enrichment script
 
 
 [ex_raw]: ./data/raw/AL00119186.xml
-[ex_normalized]: ./data/normalized/AL00119186.xml
-[ex_enriched]: ./data/normalized/AL00119186.xml
+[ex_normalized]: ./data/normalized/AL00119186.json
+[ex_enriched]: ./data/normalized/AL00119186.json
 
 [summary_normalized]: ./summary_normalized.csv
 [summary_enriched]: ./summary_enriched.csv
