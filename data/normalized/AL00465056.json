@@ -14,7 +14,6 @@
         "05.04.1878"
     ],
     "doc_id": "000447252",
-    "gnd_uri": null,
     "notes": [
         "Wien",
         "05.04.1878",
@@ -25,17 +24,24 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118634712"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118603817",
             "lifetime": "1788-1866",
             "name": "Rückert, Friedrich",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/118603817"
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Sechs Lieder für eine Frauenstimme. Nr. 3, Die Spinnerin",
@@ -43,22 +49,28 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4063783-9",
             "labels": [
                 "Vokalmusik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4063783-9"
             ]
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/4313218-2",
             "labels": [
                 "Solo",
                 "Musik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4313218-2"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

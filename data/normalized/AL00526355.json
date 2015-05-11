@@ -16,7 +16,6 @@
     ],
     "dates": [],
     "doc_id": "000507156",
-    "gnd_uri": null,
     "notes": [
         "Partitur, Handschrift (18. Jh.), 129 Bl.",
         "Leopoldina – Privatbibliothek Kaiser Leopolds I.",
@@ -25,17 +24,24 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118632825",
             "lifetime": "1670-1724",
             "name": "Wilderer, Johann Hugo <<von>>",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118632825"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Krafft, Georg",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                null
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "La monarchia risoluta",
@@ -44,15 +50,19 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4040874-7",
             "labels": [
                 "Musiktheater"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4040874-7"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

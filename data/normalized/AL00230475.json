@@ -14,7 +14,6 @@
         "1879"
     ],
     "doc_id": "000213889",
-    "gnd_uri": "http://d-nb.info/gnd/300029888",
     "notes": [
         "Wien",
         "1879",
@@ -24,11 +23,16 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118515799"
+            ]
         }
+    ],
+    "sameas": [
+        "http://d-nb.info/gnd/300029888"
     ],
     "subtitles": [
         "Quintette, Vl 1 2 Va 1 2 Vc, WAB 112",
@@ -37,15 +41,19 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4136998-1",
             "labels": [
                 "Kammermusik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4136998-1"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

@@ -39,7 +39,6 @@
         "15.10.1815"
     ],
     "doc_id": "000112576",
-    "gnd_uri": "http://d-nb.info/gnd/300140924",
     "notes": [
         "15. Oct. 1815",
         "15.10.1815",
@@ -51,53 +50,72 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118610961",
             "lifetime": "1797-1828",
             "name": "Schubert, Franz",
-            "role": "Komponist"
+            "role": "Komponist",
+            "sameas": [
+                "http://d-nb.info/gnd/118610961"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Stoll, Ludwig Joseph",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                null
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118713507",
             "lifetime": "1791-1813",
             "name": "Körner, Theodor",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/118713507"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/132145901",
             "lifetime": "1781-1862",
             "name": "Kumpf, Johann Gottfried",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/132145901"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/116055448",
             "lifetime": "1794-1859",
             "name": "Deinhardstein, Johann Ludwig",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/116055448"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/118842188",
             "lifetime": "1784-1844",
             "name": "Jarnik, Urban",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/118842188"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/136659837",
             "lifetime": "1781-1816",
             "name": "Fellinger, Johann Georg",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                "http://d-nb.info/gnd/136659837"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Kalchberg, Johann Nepomuk <<von>>",
-            "role": "Text"
+            "role": "Text",
+            "sameas": [
+                null
+            ]
         }
+    ],
+    "sameas": [
+        "http://d-nb.info/gnd/300140924"
     ],
     "subtitles": [
         "Lieder / Ausw.",
@@ -105,22 +123,28 @@
     ],
     "terms": [
         {
-            "gnd_link": "http://d-nb.info/gnd/4063783-9",
             "labels": [
                 "Vokalmusik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4063783-9"
             ]
         },
         {
-            "gnd_link": "http://d-nb.info/gnd/4313218-2",
             "labels": [
                 "Solo",
                 "Musik"
+            ],
+            "sameas": [
+                "http://d-nb.info/gnd/4313218-2"
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Musikhandschrift"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

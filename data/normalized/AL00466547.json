@@ -20,7 +20,6 @@
     ],
     "dates": [],
     "doc_id": "000448719",
-    "gnd_uri": null,
     "notes": [
         "Gutachten, Aktenstücke, Briefe u. a in 16 Umschlägen",
         "Nachlass Hugo Wolf",
@@ -31,20 +30,27 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
-            "role": "Dokumentierte Person"
+            "role": "Dokumentierte Person",
+            "sameas": [
+                "http://d-nb.info/gnd/118634712"
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Materialien zu Hugo Wolfs Krankheit"
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Lebensdokument"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

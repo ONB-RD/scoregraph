@@ -30,7 +30,6 @@
         "22.12.1877-10.03.1887"
     ],
     "doc_id": "000219215",
-    "gnd_uri": null,
     "notes": [
         "Wien",
         "22.12.1877-10.03.1887",
@@ -42,32 +41,43 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118634712",
             "lifetime": "1860-1903",
             "name": "Wolf, Hugo",
-            "role": "Verfasser"
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118634712"
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Wolf, Katharina",
-            "role": "Adressatin"
+            "role": "Adressatin",
+            "sameas": [
+                null
+            ]
         },
         {
-            "gnd_uri": null,
             "lifetime": null,
             "name": "Wolf, Philipp",
-            "role": "Adressat"
+            "role": "Adressat",
+            "sameas": [
+                null
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "6 Briefe an Katharina und Philipp Wolf"
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Korrespondenz"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

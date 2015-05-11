@@ -12,7 +12,7 @@ import os
 
 from bs4 import BeautifulSoup
 
-from common import write_json_file, progress
+from common import write_json_file, progress, read_records
 
 GND_PREFIX = "http://d-nb.info/gnd"
 
@@ -52,7 +52,7 @@ def persons(soup):
             'name': name,
             'lifetime': lifetime,
             'role': role,
-            'gnd_uri': gnd_link
+            'sameas': [gnd_link]
         }
         persons.append(person)
     return persons
@@ -138,7 +138,7 @@ def terms(soup):
         gnd_link = tag.find("subfield", label="9")
         if gnd_link:
             gnd_link = GND_PREFIX + "/" + gnd_link.string[8:]
-        term = {'labels': labels, 'gnd_link': gnd_link}
+        term = {'labels': labels, 'sameas': [gnd_link]}
         terms.append(term)
     return terms
 
@@ -149,15 +149,6 @@ def doc_id(soup):
 
 def aleph_id(soup):
     return soup.find("varfield", id="001").find("subfield", label="a").string
-
-
-# I/O handling
-
-def raw_records(inputfiles):
-    for filename in inputfiles:
-        with open(filename, 'r') as in_file:
-            data = in_file.read()
-            yield (filename, data)
 
 
 # Main normalization routine
@@ -172,7 +163,7 @@ def normalize(raw_record):
         'persons': persons(soup),
         'content': content(soup),
         'dates': dates(soup),
-        'gnd_uri': gnd_link(soup),
+        'sameas': [gnd_link(soup)],
         'notes': notes(soup),
         'terms': terms(soup)
     }
@@ -181,8 +172,8 @@ def normalize(raw_record):
 
 def normalize_records(inputfiles, outputdir):
     print("Normalizing", len(inputfiles), "records to", outputdir)
-    for index, (filename, record) in enumerate(raw_records(inputfiles)):
-        progress(index/len(inputfiles))
+    for index, (filename, record) in enumerate(read_records(inputfiles)):
+        progress((index+1)/len(inputfiles))
         normalized_record = normalize(record)
         out_file = os.path.basename(filename).replace("xml", "json")
         write_json_file(outputdir, out_file, normalized_record)

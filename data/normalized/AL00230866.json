@@ -14,7 +14,6 @@
         "1872"
     ],
     "doc_id": "000214250",
-    "gnd_uri": null,
     "notes": [
         "1872",
         "222 Bl., Eintragungen Autograph Bruckner am Titelbl. u. Bl. 39r",
@@ -24,20 +23,27 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
-            "role": "Verfasser"
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118515799"
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Autographe Eintragungen von Bruckner aus dem Jahr 1872 in: Krippen-Kalender für das Jahr 1872. Zwanzigster Jahrgang. - Wien: Carl Gronemeyer (Prandel's Buchhandlung)."
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Taschenkalender"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

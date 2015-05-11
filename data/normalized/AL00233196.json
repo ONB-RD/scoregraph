@@ -15,7 +15,6 @@
         "04.12.1787"
     ],
     "doc_id": "000216247",
-    "gnd_uri": null,
     "notes": [
         "4. Dezember 1787",
         "04.12.1787",
@@ -25,11 +24,16 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118539841",
             "lifetime": "1714-1787",
             "name": "Gluck, Christoph Willibald",
-            "role": "Dokumentierte Person"
+            "role": "Dokumentierte Person",
+            "sameas": [
+                "http://d-nb.info/gnd/118539841"
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [
         "Testament",
@@ -37,15 +41,19 @@
     ],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Lebensdokument"
+            ],
+            "sameas": [
+                null
             ]
         },
         {
-            "gnd_link": null,
             "labels": [
                 "Testament"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],

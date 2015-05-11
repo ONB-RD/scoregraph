@@ -10,7 +10,6 @@
         "18.10.1869"
     ],
     "doc_id": "000110103",
-    "gnd_uri": null,
     "notes": [
         "Wien",
         "18.10.1869",
@@ -19,24 +18,33 @@
     ],
     "persons": [
         {
-            "gnd_uri": "http://d-nb.info/gnd/118515799",
             "lifetime": "1824-1896",
             "name": "Bruckner, Anton",
-            "role": "Verfasser"
+            "role": "Verfasser",
+            "sameas": [
+                "http://d-nb.info/gnd/118515799"
+            ]
         },
         {
-            "gnd_uri": "http://d-nb.info/gnd/119286661",
             "lifetime": "1779-1840",
             "name": "Schiedermayr, Johann Baptist",
-            "role": "Adressat"
+            "role": "Adressat",
+            "sameas": [
+                "http://d-nb.info/gnd/119286661"
+            ]
         }
+    ],
+    "sameas": [
+        null
     ],
     "subtitles": [],
     "terms": [
         {
-            "gnd_link": null,
             "labels": [
                 "Korrespondenz"
+            ],
+            "sameas": [
+                null
             ]
         }
     ],
