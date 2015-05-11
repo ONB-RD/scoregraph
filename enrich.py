@@ -71,7 +71,10 @@ def filter_europeana_items(data, europeana_items):
 
 def enrich_europeana(data):
     """Enriches a normalized record with Europeana data"""
+    # TODO: improve and remove duplicates
     title = data.get('title')
+    if 'persons' not in data:
+        return data
     for person in data['persons']:
         name = person['name']
         query = name
