@@ -142,6 +142,23 @@ def terms(soup):
         terms.append(term)
     return terms
 
+def genres(soup):
+    terms = []
+    tags = find_tags_in_id_range(soup, 902, 903)
+    for tag in tags:
+        gnd_link = tag.find("subfield", label="9")
+        if gnd_link:
+            term = {}
+            labels = []
+            for subfield in tag.find_all("subfield"):
+                if subfield["label"] != "9":
+                    labels.append(subfield.string)
+            if(len(labels) > 0):
+                term['labels'] = labels
+            gnd_link = GND_PREFIX + "/" + gnd_link.string[8:]
+            term['sameas'] = [gnd_link]
+            terms.append(term)
+    return terms
 
 def doc_id(soup):
     return soup.doc_number.string
@@ -178,6 +195,9 @@ def normalize(raw_record):
         normalized_record['terms'] = terms(soup)
     if gnd_link(soup):
         normalized_record['sameas'] = [gnd_link(soup)]
+    if genres(soup):
+        normalized_record['genres'] = genres(soup)
+
 
     return normalized_record
 
